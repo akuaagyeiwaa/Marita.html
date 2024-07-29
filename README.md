@@ -19,6 +19,7 @@
         .metadata p {
             margin: 5px 0;
         }
+        <link rel="stylesheet" href="styles.css">
     </style>
 </head>
 <body>
