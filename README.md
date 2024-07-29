@@ -7,6 +7,7 @@
     <title>Marita or the Folly of Love</title>
     <link rel="stylesheet" href="styles.css">
     <style>
+        <title>Justified Paragraphs</title>
         body {
             font-family: Arial, sans-serif;
             margin: 40px;
