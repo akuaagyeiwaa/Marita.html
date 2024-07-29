@@ -7,7 +7,7 @@
     <title>Marita or the Folly of Love</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        {
+       p {
             text align: justify;
         }
         <title>Justified Paragraphs</title>
