@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marita or the Folly of Love</title>
+    <link rel="stylesheet" href="styles.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -19,7 +20,7 @@
         .metadata p {
             margin: 5px 0;
         }
-        <link rel="stylesheet" href="styles.css">
+        
     </style>
 </head>
 <body>
