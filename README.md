@@ -12,8 +12,8 @@
             margin: 40px;
         }
         h1 {
-            text-align: justify;
-            text-justify: inter-word;
+            text-align: center;
+            
         }
         .metadata {
             margin-bottom: 20px;
