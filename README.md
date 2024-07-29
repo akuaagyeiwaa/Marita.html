@@ -46,9 +46,9 @@ Western Echo, 30tfi January 1886
 
 <Mr Quaibu, the hero of this tale, was a man who had just entered his fortieth year short and slenderly built, healthy and strong. His features were not different from any of his countrymen’s - real type of a negro. He also had the advantage of English education, moved in the highest society, both European and native, and at the time that this tale was commenced he was filling a post -which was worth to him several hundred pounds sterling a year.</p>  
 
-These two gentlemen were fast friends, so strong was their friendship that not a day passed but what you would see them together. No wonder therefore that Mr Bonsoe Penin used such familiar terms to his friend Quaibu.  
+<p>These two gentlemen were fast friends, so strong was their friendship that not a day passed but what you would see them together. No wonder therefore that Mr Bonsoe Penin used such familiar terms to his friend Quaibu.  </p>
 
-‘Gently, Bonsoe Penin,’ replied Quaibu, ‘Not -so fast. Take a seat and cool yourself with a glass of Moselle and soda before you attempt to talk, as you are burning with heat. It is thus that I punish you for your hard words. After you have rested we will find time to talk about the matter and any amount of nonsense you like.’ 
+<‘Gently, Bonsoe Penin,’ replied Quaibu, ‘Not -so fast. Take a seat and cool yourself with a glass of Moselle and soda before you attempt to talk, as you are burning with heat. It is thus that I punish you for your hard words. After you have rested we will find time to talk about the matter and any amount of nonsense you like.’ </p>
 
  ‘By — ! Quaibu you are really provoking! I swear that 1 will not sit down, nor allow myself to be insulted by your offer of drink until you have satisfied me. Was the banns published yours and Miss Wissah’s?’ replied Bonsoe Penin persistently. 
 
