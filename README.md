@@ -56,15 +56,15 @@ Western Echo, 30tfi January 1886
 
 <p>Bonsoe Penin here took a seat on the other side of the table at which he met his friend sitting and writing his books. Mr Quaibu called for a bottle of Moselle and two of soda and glasses. The boy took off the wines, placed the bottles on the tables and then retired leaving the two friends to enjoy themselves. ‘How clumsy you are today Quaibu’, exclaimed Bonsoe Penin getting up suddenly. ‘By Jove! you have wet me all over. On my clean shirt and collar! and I am due the court in twenty minutes time, and His Honour the Chief Justice is so provokingly punctual! Where the d— am I going to get a change of shirt? And the court is fully 15 minutes ride from here. I wish I never allowed myself to be tempted by this accursed drink. What must I do, Quaibu?’ </p> 
 
-I will lend you a shirt, old fellow and a dozen collars if you like,’ replied Quaibu laughing.  
+<p>I will lend you a shirt, old fellow and a dozen collars if you like,’ replied Quaibu laughing. </p> 
 
-‘Pooh, man your shirt wont fit me, it will choke me. I will none of your babyish shirts, especially in court and to-day too when I have to defend a poor murderer and have to do all I can to save the poor man’s innocent neck from coming into close proximity with the hangman’s noose.’  
+<p>‘Pooh, man your shirt wont fit me, it will choke me. I will none of your babyish shirts, especially in court and to-day too when I have to defend a poor murderer and have to do all I can to save the poor man’s innocent neck from coming into close proximity with the hangman’s noose.’ </p> 
 
-‘No, no, Quaibu, I would rather play truant to-day from Court and endure his Honour’s reprimand tomorrow than lose my client’s cause, which I would certainly do were I to go to Court to-day with your shirt on.’  
+<p>‘No, no, Quaibu, I would rather play truant to-day from Court and endure his Honour’s reprimand tomorrow than lose my client’s cause, which I would certainly do were I to go to Court to-day with your shirt on.’</p>  
 
-‘Boy! boy!’ called Mr Quaibu to his servant; ‘bring another bottle of Mose(le. I must say Bonsoe Penin, if your “learned self,” instead of apparel, had shown such a great aptitude for drinking to-day I would certainly be glad. See there is not a drop of wine left in the bottle and we are still dry. You will open the second bottle, and after we have had our first shot you will indite a letter to His Honour to postpone the hearing of your case until tomorrow; after which we will have time to talk freely and uninterruptedly.’  
+<p>‘Boy! boy!’ called Mr Quaibu to his servant; ‘bring another bottle of Mose(le. I must say Bonsoe Penin, if your “learned self,” instead of apparel, had shown such a great aptitude for drinking to-day I would certainly be glad. See there is not a drop of wine left in the bottle and we are still dry. You will open the second bottle, and after we have had our first shot you will indite a letter to His Honour to postpone the hearing of your case until tomorrow; after which we will have time to talk freely and uninterruptedly.’ </p> 
 
-Bonsoe Penin here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together. 
+<p>Bonsoe Penin here upon indited a letter to His Honour assigning other reasons than that which was the true cause of his inability to attend the Court; and after despatching it by his own boy, sat down minus coat as contented as if no mishap had taken place and the two friends commenced talking seriously together. 
 
  
 
