@@ -1,1 +1,44 @@
+/* General styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+/* Center align for the main heading */
+h1 {
+    text-align: center;
+}
+
+/* Styling for metadata section */
+.metadata {
+    margin-bottom: 20px;
+}
+
+.metadata p {
+    margin: 5px 0;
+}
+
+/* Interactive styling for personal names */
+span.personal-name {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.personal-name:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+/* Interactive styling for place names */
+span.place-name {
+    color: green;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
 
