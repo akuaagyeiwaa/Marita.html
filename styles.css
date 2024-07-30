@@ -152,3 +152,14 @@ span.place-name-2:hover {
     color:  #DAA520;
     text-decoration: underline;
 }
+
+span.place-name-3 {
+    color:  #8cc469;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.place-name-3:hover {
+    color:  #8cc469;
+    text-decoration: underline;
+}
