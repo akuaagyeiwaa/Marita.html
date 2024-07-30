@@ -356,7 +356,7 @@ Western Echo, 31st May 1886
 
 <p>‘Who said that I wanted money,’ interrupted the lady; ‘and your money too! as if I did not consider that what you have got is mine and mine yours. ’</p> 
 
- <p>‘But what is it you want? I would rather satisfy you than to continue this fruitless pass of words,’ humbly gave in Mr <span class="personal-name">$1</span>.  </p>
+ <p>‘But what is it you want? I would rather satisfy you than to continue this fruitless pass of words,’ humbly gave in Mr <span class="personal-name">Quaibu</span>.  </p>
 
 <p>‘Fruitless indeed! Acknowledge now honestly that you have had the worse of it, and that in future you will respect my sex, however illiterate I may be, and treat me better than you have treated me to-day. Women’s denials and contradictions, their affirmations, indeed! as if men are the only creatures that were made to tell exactly what they mean or feel. ’</p>  
 
