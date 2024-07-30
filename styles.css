@@ -45,14 +45,14 @@ span.personal-name-2:hover {
     text-decoration: underline;
 }
 span.personal-name-3 {
-    color: #F0F8FF; /* Different color to distinguish */
+    color: #87CEFA; /* Different color to distinguish */
     font-weight: bold;
     cursor: pointer;
     
 }
 
 span.personal-name-3:hover {
-    color:#F0F8FF ; /* Different hover color */
+    color:#87CEFA ; /* Different hover color */
     text-decoration: underline;
 }
 span.personal-name-4 {
