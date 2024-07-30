@@ -342,7 +342,7 @@
 
  
 
-<h4><p>Western Echo, 31st May 1886 </p> 
+<h4><p>Western Echo, 31st May 1886 </p> </h4>
 
 <p>‘Let it out man, let out the word,' she said in a taunting manner, then added, ‘Yes I meant to kiss him, but now I wont do so if  you will pay me for it.’ </p>
 
