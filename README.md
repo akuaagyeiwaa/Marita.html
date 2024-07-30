@@ -72,7 +72,7 @@
 
  
 
-<h4><p>Western Echo, I0h February 1886 </p><</h4> 
+<h4><p>Western Echo, I0h February 1886 </p></h4> 
 
 <p>We must now leave these two gentlemen, and introduce the heroine of this tale to the reader. Miss Wissah, at the time that this tale commenced was a woman of about four and twenty years old; in stature she was short, but proportionably well built; she was neither stout nor thin, although she had a tendency towards stoutness. Her features were not very regular but extremely pleasing; her gait or steps were faultless, and she has a way of carrying herself among her own class — the uneducated women — that she is everywhere considered to be equal if not superior to any of her companions. It is only in company of educated ladies that she exhibits a consciousness of inferiority. Coupled with these natural advantages she has a strong and well regulated mind which wanted only education to have made her perfect. In fact she was a woman gifted by nature to adorn any (XP society if she had been cultured. Was it to be wondered at that Mr <span class="personal-name">Quaibu</span> became fascinated by her even in spite of her want of education, and the occasional burst of temper which she exhibited. Love is blind, and in the case of Mr <span class="personal-name">Quaibu</span> as well as Miss Wissah’s, Cupid never played a severer trick upon two fools. </p>
 
@@ -84,7 +84,7 @@
 
  
 
-CHAPTER II 
+<h2><p>CHAPTER II </p></h2>
 
 <h4><p>Western Echo, 24th February 1886 </p></h4>
 
