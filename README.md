@@ -262,7 +262,7 @@ Western Echo, 24th April 1886 (continued)
 
 <p>‘Certainly’ replied Mr Hardy. ‘And what could prevent you from being one? I have been told by Mr Pritzia, with whom I have on several occasions spoken about you that you have a strong antipathy to class meetings. </p>
 
- <p>‘Your colleague is right in telling you so, dear Mr Hardy,’ replied Mr <span class="personal-name">quaibu</span>. ‘As an individual I do not think it serves me a bit in my aspirations to act according to the dictates of conscience. Often have I done violence to the secret whisperings of that “little insect in my head,” conscience, and have become a class member and as often broken my resolutions to be one. Mr </p> 
+ <p>‘Your colleague is right in telling you so, dear Mr Hardy,’ replied Mr <span class="personal-name">Quaibu</span>. ‘As an individual I do not think it serves me a bit in my aspirations to act according to the dictates of conscience. Often have I done violence to the secret whisperings of that “little insect in my head,” conscience, and have become a class member and as often broken my resolutions to be one. Mr </p> 
 
 <p>Pritzia himself can tell you this. It is experience and not ignorance of the thing that makes me somewhat shy. I am afraid you will not find it an easy task to induce me to become one. </p>
 
