@@ -102,7 +102,7 @@
 
  
 
-48 CHAPTER II (check) 
+<h2><p>CHAPTER II (check) </p></h2>
 
 <p>Deep consideration the similarity of feelings, or of mind, of education and training; the kind of love which binds two together, whether in prosperity or in adversity; and of the entire dependence on the part of the woman upon the man, which alone could make the new life into which you are drifting yourself and the lady happy?. Pause, ponder, and consider well the serious step you are about taking before its too late. These are not mere words prompted by a spirit of egotism; “once bit, twice shy” and experience teaches knowledge. The flames about which you are, moth-like fluttering, will certainly burn you, as it burnt me to my cost. As a young man, when I first came out from England, I was induced to marry in the church, the daughter of one of the highest gentlemen in the country. But oh! What a most miserable life we led I took the bull by the horns, and broke the ring that united us. I followed the fashion of my country, and I am as you find me, happy. Forgive the liberty 1 have taken in talking so freely to you. If I have gone beyond the limits of friendship know that it is pure nature that prompted me.’</p> 
 
@@ -122,9 +122,9 @@
 
   
 
-CHAPTER III  
+<h2><p>CHAPTER III </p></h2> 
 
-Western Echo, 6th March 1886  
+<h4><p>Western Echo, 6th March 1886  </p></h4>
 
 <p>‘Leave me alone to myself,’ replied Mr Bonsoe Penin helping himself to a glass of Moselle. ‘His Reverence and lady are cousins of mine, and they know me too well to take umbrage at anything that I choose to say to them. How are you Miss Wissah?’ continued he, addressing himself to the lady. ‘It is sometime since I saw you. So you have been taken in hand by my dear cousins, and are being led by them to the place where you should go; and poor <span class="personal-name">Quaibu</span> too has ' cast behind him the world and all its vanity and is ready to follow you wither- soever my godly relatives will choose to lead you. Poor guileless girl! and poor <span class="personal-name">Quaibu</span>’s helpless.’</p> 
 
@@ -152,11 +152,11 @@ Western Echo, 6th March 1886
 
  
 
-CHAFER IV  
+<h2><p>CHAFER IV </p></h> 
 
-THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH  
+<h3><p>THE PRITZIAS - HUSBAND AND WIFE AND MISS WISSAH</p> </h3> 
 
-Western Echo, 17th March 1886 
+<h4><p>Western Echo, 17th March 1886</p></h4> 
 
 <p>In the last chapter we mentioned that Wissah called over to see Mr & Mrs Pritzia and also mentioned somewhere that she had been of late in the habit of going there frequently. Mr Pritzia, as has been intimated before, was a - Wesleyan minister, a zealous man of the old school. He was one of the trained men Revd. Mr Fitzmaurice brought up in the ministry. If he was deficient in education and could barely read and write and with difficulty speak the English language, he was nevertheless a very good man, and able speaker, was successful in gaining souls in his ministrations, and moreover for a native he was| liberal in his religious tenets. As he made no ostentatious displays of religion in conversation, as some of his cloth did; and knew when and how to introduce religious matter in conversation and when to talk about other subjects, Mr <span class="personal-name">Quaibu</span> found great delight in the Rev. gentleman’s company, and from mere acquaintance they became very good friends. It was his habit to call upon Mr <span class="personal-name">Quaibu</span> frequently and on these occasions religion formed the principle topic of conversation, although other subjects were taken in hand too. As were the men so also became the women, and Mrs Pritzia, and Miss Wissah became also intimate.</p>  
 
@@ -170,7 +170,7 @@ Western Echo, 17th March 1886
 
 <p>Obedient to her lord's command Mrs Pritzia the next day repaired to Mr <span class="personal-name">Quaibu</span>'s house, and seeing Miss Wissah disengaged had some chat with her and when she was leaving managed to get her to accompany her. Mr Pritzia seeing them quietly went to his bedroom unperceived by the ladies and there waited till he found an opportune time to come arrayed in such abillment as became his position when he wanted to covert souls. </p>
 
-Western Echo, 24th March 1886 
+<h4><p>Western Echo, 24th March 1886</p></h4> 
 
 <p>'I saw Mr <span class="personal-name">Quaibu</span> with several friends going about a great deal the worse for liquor.' This was a feeler put by Mrs Pritzia to Miss Wissah who judging by the way for him. absence of her husband thought and rightly too, that he wanted her to prepare </p>
 
@@ -190,9 +190,9 @@ Western Echo, 24th March 1886
 
  
 
-CHAPTER V  
+<h2><p>CHAPTER V  </p></h2>
 
-Western Echo, 10th April 1886 –  
+<h4><p>Western Echo, 10th April 1886</p></h4>  
 
 <p>‘I have been rather busy in my study,’ began he when he joined them, up a sermon for Sunday, a most insinuating air, ‘I ‘getting By the bye,’ continued he, at the same time assuming am glad to see that you go to chapel occasionally, and to observe that you are a good and attentive listener. I have observed you often whilst preaching, and it did my heart good to see you so piously bent. May I ask, were you in the habit of going to chapel before you came to this place? I should like very much to know that.’</p>  
 
@@ -238,17 +238,17 @@ Western Echo, 10th April 1886 –
 
  
 
-Western Echo, 24th April 1886  
+<h4><p>Western Echo, 24th April 1886 </p></h4> 
 
 <p>After this wholesome admonition from her husband Mrs Pritzia kept quiet for some time with her head bent down seemingly in deep cogitation; she then went to her bedroom where we will leave her to ponder over her husband’s words. </p> 
 
  
 
-CHAPTER VI  
+<h2><p>CHAPTER VI</p> </h2> 
 
-REVD, MR HARDY AND <span class="personal-name">QUAIBU</span>  
+<h3><p>REVD, MR HARDY AND <span class="personal-name">QUAIBU</span>  </p></h3>
 
-Western Echo, 24th April 1886 (continued) 
+<h4><p>Western Echo, 24th April 1886 (continued) </p></h4>
 
 <p> A few months subsequent to the proceedings related in the chapter immediately following [read: preceding, SN] this; and after Miss Wissah had been fairly admitted a member on trial in the. Wesleyan body for she could not be admitted into full membership since she was living, as was considered, in a state of concubinage, the Revd. Mr Hardy called to see Mr <span class="personal-name">Quaibu</span>, and demanded to have some talk with him in private. This being granted the missionary commenced:</p> 
 
@@ -276,7 +276,7 @@ Western Echo, 24th April 1886 (continued)
 
  
 
-Western Echo, 8th May 1886 
+<h4><p>Western Echo, 8th May 1886 </p></h4>
 
 <p>‘That, what you have been describing is against human nature I must agree with you' remarked Mr Hardy; 'and therefore it is that members are not required to confess the sins or crimes they may have committed during the week. That would be preposterous. </p>
 
@@ -294,11 +294,11 @@ Western Echo, 8th May 1886
 
  
 
- CHAPTER VII  
+ <h2><p>CHAPTER VII </p></h2> 
 
-<span class="personal-name">Quaibu</span> AND MISS WISSAH  
+<h3><p><span class="personal-name">Quaibu</span> AND MISS WISSAH </p></h3> 
 
-Western Echo, 21st May 1886 
+<h4><p>Western Echo, 21st May 1886</p></h4> 
 
 <p> We recorded at the conclusion of the last chapter that Mr <span class="personal-name">Quaibu</span> went to his wife’s apartment after the minister had left and that he met her adjusting her hair. He waited until she had finished, then got her to dismiss the girl who had been assisting her with her hair, and in a most lively and interesting manner opened up a conversation.</p>  
 
@@ -342,7 +342,7 @@ Western Echo, 21st May 1886
 
  
 
-Western Echo, 31st May 1886  
+<h4><p>Western Echo, 31st May 1886 </p> 
 
 <p>‘Let it out man, let out the word,' she said in a taunting manner, then added, ‘Yes I meant to kiss him, but now I wont do so if  you will pay me for it.’ </p>
 
@@ -396,7 +396,7 @@ Western Echo, 31st May 1886
 
   
 
-Western Echo, 16th June 1886  
+<h4><p>Western Echo, 16th June 1886</p></h4>  
 
 <p>‘I shall give in <span class="personal-name">Quaibu</span>; but I sincerely wish your friend Mr Bonsoe Penin and his wife will not stay long so that we may resume our conversation. I am so impatient to know all about it.’</p> 
 
@@ -438,7 +438,7 @@ Western Echo, 16th June 1886
 
 <p>As soon as the Bonsoe Penins left Miss Wissah insisted upon resuming their private talk, and to have it over, so to the old place they went. It certainly must be confessed that do whatever he would poor <span class="personal-name">Quaibu</span> could not make himself out, much less Miss Wissah. The lady had shown a change, or decided to change since she became a class member; and may not the contemplated Church marriage effect greater changes in her against his peace of mind? As man he thought if he did not assume his right position at the eve of the bond soon to be contracted between himself and her, he might as well cast his authority to the winds after the celebration of the marriage, and submit himself to be hen-pecked for life. He thought better therefore to make a resolute stand and refuse to discuss the subject until he thought fit and proper to do so. On the other hand he thought that if he refused to have it out then his chance of doing so before the promised interview with the minister on the next day would be lost and without having the talk over with her so as by it a result to know whether or not he would be studying his and her future happiness by consenting to the project, he would be leaping in the dark and plunging her and himself into life-long misery. He therefore chose the least of the two evils and quietly submitted with good grace to the discussion of their second marriage. Poor man! He was in a sad predicament. To have the talk there and then he would be giving in to his wife which he did not wish to do; and not to do so, he either must give the minister his promise to marry in the Church in which case he would be acting blindly in the affair or if he refused he felt that he must give him - the minister - good and sufficient reasons for refusing which he could not do without first having an interview with her. The lady therefore carried the day, and nothing loathe opened the ball by asking <span class="personal-name">Quaibu</span> to tell her what the minister told him.</p>  
 
-Western Echo, 30th June 1886  
+<h4><p>Western Echo, 30th June 1886 </p></h4> 
 
 <p>'Are you indeed very anxious to know it? 'he asked, cautiously approaching the subject.</p>  
 
@@ -460,7 +460,7 @@ Western Echo, 30th June 1886
 
  
 
-Western Echo, 14th July 1886  
+<h4><p>Western Echo, 14th July 1886 </p></h4> 
 
 <p>‘You have seen, Wissah, the liberty, the freedom of action, enjoyed in country marriages. I will tell you now that for which we are going to sacrifice what has heretofore been a source of happiness and bliss to us.' ‘Liberty is sweet, and natural laws are stronger than laws that any civil power can inaugurate. The marriage I have just described to you is full of liberty, because it is nature's institution or something near it; whilst free will or liberty has no place in the one I am going to describe to you; because it is a civil institution opposed to nature. It is this: we swear before God and man that nothing but adultery committed by one or both of us could dissever the connection between us; otherwise we must live together through life whether or not I treat you kindly. In this one, the oath that we take to bind us together - a very sharp instrument for people living as we are, to handle - takes the place of liberty and free will or action of the other. In the country marriage the love is fed continually by the FEAR that at the least ill-treatment your wife or your husband might leave you, and marry another; in the church marriage there is no such incentive manages with us there. Whilst in the one (native marriage) we have every reason to be careful how we act, in the other, license is given to us to do whatever we like. The woman is at liberty to say "I can do whatever I like now, so long as my husband can not of his own wish and inclination divorce me unless he can prove adultery against me. Now love may go to the winds; I will enjoy myself the best way I can" [quotation marks added, SN]. With love, obedience, honor and respect far away the poor miserable dupe of a husband gets his eyes open when it is too late for him to retract. The man may lose the love he had for the wife for the like reasons, although he may show her respect for her own sake, and keep outward appearances. The man, besides other miseries that he has it in his power to inflict upon his wife, cannot help treating her differently from the kind of treatment he gave her before marriage. Then if he showed his true colours his lady love being unshackled could give him his congé; but now that she is enchained, for any act of his towards her barring brutal treatment and adultery, he may not care. In the church marriages, according to the state of our society license is given us to make each other miserable, while in the country one the license given is in the other way. Now Wissah you have heard all what I have told you about these two kinds of marriages; I will leave you now to think of it; let me know your decision before the minister makes his intended visit tomorrow.' </p>
 
@@ -480,7 +480,7 @@ Western Echo, 14th July 1886
 
  
 
-Western Echo, 14th July 1886 (continued)  
+<h4><p>Western Echo, 14th July 1886 (continued)  </p></h4>
 
 <p>At the meeting that took place between the minister and Mr <span class="personal-name">Quaibu</span> the next day, at which marriage formed the principal topic of conversation, I mean discussion, our hero not being inclined to give up the happiness which he enjoyed in his country marriage state without at least showing to the minister his opinion of the two kinds of marriages, used more forcible arguments than he used when he was with his wife. Mr Powers on his side used all the arguments he could in favour of church or Christian marriage; but he found that he might as well try to convince him that black was white. Finding however that he was going to lose <span class="personal-name">Quaibu</span>, since it was obvious to him that he could not admit him as a class member until he consummated his marriage in the church, Mr Powers said: </p> 
 
@@ -504,7 +504,7 @@ Western Echo, 14th July 1886 (continued)
 
 <p>blessed Saviour be liberal and we not have been? warmly. </p>
 
-Western Echo, 29th July 1886 
+<h4><p>Western Echo, 29th July 1886</p></h4> 
 
 <p>'In the very subject which forms the principal topic of our conversation,' replied <span class="personal-name">Quaibu</span>. 'Our Lord Jesus, although a God, yet conformed himself to the things of this world when he became incarnate. He would suit his divine precept and teachings to the condition of the people. Did he not command his disciples "to render unto Caesar the things that are Caesar's and unto God the things that are God's"?" Did he not rebuke the Pharisees for charging his disciples with breach of the Sabbath and uphold his disciples? The Pharisees were astonished when he said the "Sabbath was made for man, but not man for the Sabbath." He knew that his disciples were hungry and therefore considered that it was no sin to pluck the ears of corn on a sabbath day to satisfy the cravings of nature. Certain it is that he would have blamed them and upheld the conduct of the Pharisees had the disciples no hunger to satisfy, but only committed the act through wantonness and on the Sabbath too. He —</p> 
 
@@ -526,7 +526,7 @@ Western Echo, 29th July 1886
 
  
 
- Western Echo, 7th August 1886 
+ <h4><p>Western Echo, 7th August 1886 </p></h4>
 
 <p> It has been recorded somewhere that Bonsoe Penin at the meeting that took place between himself and Mr <span class="personal-name">Quaibu</span> exhibited such extreme disapproval of the step his friend was about to take, that he spoke in undisguised terms his sentiments or mind on the rashness of the act, and that he cautioned him before he left io think over the matter again before he plunged himself into it. The meeting of the friends took place shortly after the conference which has been related as having taken place between Mr Powers and Mr <span class="personal-name">Quaibu</span>. It was impossible, therefore for him to arrive at any other conclusion than that which resulted at the meeting. He consequently told his friend when they next met of his having made up his mind to take the leap in the dark and abide by the consequences. Bonsoe Penin had done all that a friend could do; he could not overstep the bounds of friendship and act the despotic master towards a refractory f slave; he therefore tendered <span class="personal-name">Quaibu</span> his services and even offered to act as his best man, which office he performed creditably when the marriage was solemnized shortly after. There were no cooings for Mr and Mrs <span class="personal-name">Quaibu</span>; they, as lovers, had done their cooings long, long ago; there was no honey-moon, nor any of the sweet nothings that newly married couples usually indulge in. To them nothing new was brought about by this new marriage. If anything was brought, it amounted to the two terms Mr and Mrs. </p> 
 
@@ -534,11 +534,11 @@ Western Echo, 29th July 1886
 
  
 
- CHAPTER IX  
+<h2><p> CHAPTER IX </p></h2> 
 
-THE STORY OF THE OLD MAN  
+<h3><p>THE STORY OF THE OLD MAN </p></h3> 
 
-Western Echo, 7th August 1886 (continued)  
+<h4><p>Western Echo, 7th August 1886 (continued)</p></h4>  
 
  
 
@@ -546,7 +546,7 @@ Western Echo, 7th August 1886 (continued)
 
  
 
-Western Echo, 24th August 1886  
+<h4>Western Echo, 24th August 1886 </h4> 
 
 <p>As soon as I reached home, I wrote a letter inviting him to a quiet dinner with me and to have a friendly talk with him afterwards. But just as I was handing the letter to a servant for delivery my dear friend was announced and a moment after, he ran in and embraced me in the most rapturous manner. He was himself again. I squeezed him to my heart and lost in the long embrace the cold reception I received from him in his own house. </p>
 
@@ -562,7 +562,7 @@ Western Echo, 24th August 1886
 
 <p>“My dearest friend, and benefactor,” rejoined I, cut to the very heart with grief and sorrow, “I would most willingly, if I could, share your grief with you, but that is impossible. If I could restore you the happiness which you have lost, by sacrificing all that I possess, I would most willingly throw it to the winds so that you might be what you were before, but it is utterly impossible as you lead me to understand. But you can learn to endure what you cannot help. In perplexity and distress both of mind and body, it is only the wise who. forbear and are patient, and in the very forbearance and patience that they exercise learn the way how to get out of the difficulty. Both of you I can see have not lost the love subsisting between you; in spite of her sour disposition and ill behaviour towards you, which is the offspring of the union of barbarous ideas with civilized notions; of imperfect knowledge of the new doctrines with the old customs. I can find that she loves you as ardently as ever she did before or else why should she wish to tie herself to you for life? It is in this very love that you can effect a reconciliation and bring her to the knowledge of her duty towards you.”</p> 
 
-Western Echo, 11th September 1886   
+<h4><p>Western Echo, 11th September 1886 </p></h4>  
 
 <p>“In this your distress, will you be my Telemachus and I your Mentor.'4 That’s well. As soon as you leave me go direct home, and call upon your wife with those sweet smiles that were once your own and accost her. If she returns your smiles and meet you in the manner she ought, attempt to tell her something amusing. But if she meets your smiles with a scowls and your amicable advances with indifference and contempt go quietly to your own apartments and bolt or fasten the door which leads to hers and there seclude yourself from her. If possible take your meals alone; but you must prosecute your business without consulting her as I suppose you are in the habit of doing; in fact show her by your assumed manners that you intend in future to do without her altogether. In the meantime watch her narrowly; and if you find any sign of contrition and a wish to make advances towards you meet her halfway, observing at the same time whether she is sincere. If she is not yet what she ought to be, preserve your reserved manners, in addition to which you can go out frequently for strolls or come to me whenever you can afford the time. Entertain your friends as usual without taking any particular notice of her; in fact treat her as a perfect non entity when you are alone in the house; but when there is company treat her with distant and severe civility. This mode of treatment will excite in her a spirit of opposition if she is a passionate woman, and she may seek to kick up a row with you. To meet this effectually, and to prevent any more rows, be (contumelious/ and scornful in your treatment of her; in fact supreme contempt cannot fail to effect a cure. But if you still fail in your thus endeavouring to break her in, and bring to her a sense of her duty towards you, then I know of nothing more that could restore you to your happiness; and the sooner a judicious separation be obtained the better for both of you; for it is impossible that God who in creating us intended us to be happy with bin: in the other world should punish us, if we sought to restore a lost happiness which we cannot effect in any other way but by untying a knot which was made by human institution. On the other hand if she is contrite and appears to be desirous for a restitution of conjugal love and affection, cautiously meet her. To her ten advances make one; go in this way until you are sure that your wife is really yours again in disposition, and in general conduct. When you have brought her to such a condition speak to her thus:-</p>	 
 
@@ -574,11 +574,11 @@ Western Echo, 11th September 1886
 
 <p>And now <span class="personal-name">Quaibu</span>, to you I leave the story of the old man a£ a legacy; read, learn and inwardly digest.  Should you at any future time have occasion to repent of the step you have taken as the hero of this story have recourse to the same remedy and you will find it infallible.  </p>
 
-Western Echo, 26th September 1886 
+<h4><p>Western Echo, 26th September 1886</p></h4> 
 
 <p> We have recorded that <span class="personal-name">Quaibu</span> became a class member. His admittance into that Holy Society was hailed by every member thereof as the means by which many of the clique to which he belonged would be converted. At Dobblesie he was set up as a bright example for others to follow, and prayers were offered for him to persist and continue in the good path that he had taken. Whilst the holy men hailed the conversion as they called it of <span class="personal-name">Quaibu</span>, those of his own clique and status in the country ridiculed him. Some gave him three months others more illiberal gave him only one to renounce attendance at class. Mr John Brandebolt, his most intimate friend and companion in all circumstances, had written from Dobblesie about the impossibility of his remaining a class member long, and that if he continued in the society even one month he would consider it a prodigy, and he would forsake his aversion to the thing and join it too. Nothing daunted, <span class="personal-name">Quaibu</span> made up his mind fully to stick to his resolution. He said to himself that if he as an individual could not derive real benefit or advantage as to his faith in and duty towards his god, and to his fellow creatures he nevertheless would do some good, and certainly no harm; he was therefore sincere in the course he had taken. Weeks passed and he was a constant attendant at the meeting; he was unremitting in his performance of the duties connected with his new position; yet he narrowly watched the conduct of the members and the minister who was the leader, both in the meetings and in their general conduct. The result of his observation was not favourable to the cause. A man who scrupled not to commit any kind of sin so long as he was not seen by his fellow creatures became immediately a saint at the meetings. One member particularly who was more zealous than the rest since it devolved upon him to perform the duty of conducting the class at any time the leader was away was known to have maintained certain illicit relations with the wife of a friend of his although married himself. This intercourse he carried on as openly as he possibly could. Everybody believed the scandal; it was only the professed christians who would not believe it. The Husband of the woman felt the insult keenly and remonstrated with the wife, but she denied it stoutly; so also did the man. An open rupture broke out, and the woman in assumed innocence felt insulted and therefore removed her things, from her liege lord's house to the house of her paramour A scandalous deed so openly acknowledged, at least on the part of the woman, and tacitly on the part of the man could not be believed by those who had assumed to themselves the garb of righteousness. It was impossible for a man of his position in the society to commit a crime so wicked and so openly too. A few days after, the woman removed her things to her own family house; shortly after she gave birth to a child; and that child was acknowledged not by the husband for he knew it was not his, but by the man of 'reputed integrity' who was then a class member. Shortly after this at a meeting the man in saying his feelings, exclaimed 'How very hard it is for me without my wife to worship my God!' 'Yes' returned the leader, 'it is really hard, but per- sist in your prayers, so that God may give you grace to combat the world, the flesh, and the devil.' That was all; no question was raised by him as to the part he took as a principal in the scandal, neither was he to my knowledge reprimanded and degraded. An act so glaringly hostile to the spirit in which that good society was first instituted by that godly man (Mr Wesley) did not fail to open the eyes of our hero; but when the conduct of the minister was added and still more a scandal of the same nature in high quarters was bruited about, <span class="personal-name">Quaibu</span> felt that instead of being benefited by his connection with the holy class, he would be only learning the art or sin of hypocrisy; an acquisition which would place him in a worse position with his Maker than he was in before he joined the Class; he made his mind to leave them. His attendance at the meetings became at first slack and finally he abandoned it altogether. He assigned no particular reason for his conduct when the minister asked him, only that it did not agree with him. <span class="personal-name">Qauibu</span> in consequence lost all confidence in the good faith of a good number of the class going gentlemen and ladies; he could not help knowing that many of them made a cloak of the sacred institution to hide crimes which non class members would not presume to commit if they could help themselves. There are certainly some very good and pious men amongst them, but they are few as compared with the hypocritical members Whose only object in joining class seems to be to find a garb of security Tor the sins they intend to commit. <span class="personal-name">Quaibu</span> separated himself from this society; but Mrs <span class="personal-name">Quaibu</span> strenuously adhered to it. <span class="personal-name">Quaibu</span> saw the dark side of this separate institution, class meetings - still darker; but his wife only saw its bright side still brighter; in fact the only path that could lead her to heaven our hero only saw hypocrisy written in large letters in the countenances of the forward members who for a put pose of their own make themselves conspicuous in the Society; but our heroine on her part saw only excessive piety, goodness and gentleness written in their faces, and so in their general habits. In fine, <span class="personal-name">Quaibu</span> would none of them, but those who wish to do good, and consider themselves sinners and as such do not turn up their noses against their fellow creatures who may be just as good if not better in the sight of the Great Searcher of hearts; but Mrs <span class="personal-name">Quaibu</span> has taken them all indiscriminately to be her brothers and sisters, and their people her people. Thus Mr and Mrs <span class="personal-name">Quaibu</span> became separate in their ideas, in the class of people they associated with; the lady taking her husband to be ungodly since he was not a class goer; and the man feeling daily that his wife was not to him the same as she was; and that they were being estranged in their low, in their habits, and in the pleasure they once had in each other’s society.  </p>
 
-Western Echo, 9th October 1886  
+<h4><p>Western Echo, 9th October 1886 </p></h4> 
 
 <p>It was thus they were relatively situated when they removed to Dobblesie, among their own people. <span class="personal-name">Quaibu</span> had hoped that a change for the better would have taken place in their circumstances by the influence of the kind of society there was at Dobblesie, but it seemed to him afterwards that they had jumped from the frying pan into the fire. He felt that he must join class again in order to make his wife acknowledge him as a fit associate in a spiritual sense; but that was impossible; so they drifted asunder in the same way as when they were at Gangacre: the distance between them was widening a pace. Each found no pleasure in the society which delighted the other. Mrs <span class="personal-name">Quaibu</span> could not very well move in the society which her husband naturally kept, since English was the only language used; neither could the husband move in the society kept by the lady for reasons Already assigned. Can it be wondered at that their domestic intercourse became somewhat constrained and forced? There was no more welcome breathed out so softly and lovingly for Mr <span class="personal-name">Quaibu</span> when he returned home from an absence of some duration. Oh, how keenly did he feel his position! It would have been by far better if he had never met the woman; or when he did, that he had never bothered about church marriage, the sole cause of the ruin of their happiness, since if their union was purely native, which was just as legal, the woman would never dare act as she did; but he could not very well blame his wife. Positioned as she was, inexperienced as to civilized society, and uneducated so as to find out the right way herself, by reading the bible or other good books, she entirely depended upon what she was told or instructed by members of her society; she would not believe her husband when he attempted to elucidate parts of ‘the good book’ to her; so wicked had she been taught to consider her husband that nothing that he would tell her she would for a moment consider to be reliable if once the least of these worthies told her the contrary. In the midst of an interesting conversation with her husband if any of these brothers or sisters called in she would at once leave him and go to him or her. Scores of other evils too tedious to enumerate and sprung up between them. The woman had lost honour and respect for the man in some matters, even obedience, for no other reason but because, forsooth, he would not make a hypocrite out of himself. Poor <span class="personal-name">Quaibu</span>! how very much he regretted having allowed his wife to join a society which had brought nothing but misery to him and to the woman too. None of his friends would sympathize with him. ‘It serves him right,’ they would tell him. He really had sown the storm and was reaping the whirlwind with a vengeance. At home he felt no comfort; at the homes of his friends he felt the same; for did he not remember in their homes what he had lost in his! </p> 
 
@@ -612,7 +612,7 @@ Western Echo, 9th October 1886
 
  
 
-Western Echo, 23rd October 1886  
+<h4><p>Western Echo, 23rd October 1886 </p> </h4>
 
 <p>‘I have not the least objection to that which occupied your time,’ replied Mr <span class="personal-name">Quaibu</span>. ‘You could not employ your time better. If I have any objection at all it is the place and the kind of people you associate with. And now tell me, was Mrs Elsmore in the company?’ </p> 
 
@@ -644,7 +644,7 @@ Western Echo, 23rd October 1886
 
 <p>‘Now Wissah, this is really too bad! How often have I taken up the Bible in order to read and explain it to you and how often have you not left me in the middle of my explanations in order to go about your business? Is it because you can explain it better than myself? No; but it is because you consider that my hands are dirty and therefore must not handle year valuable jewels, that I being ungodly, you lose the pleasure when I explain the secret to you.’ </p>
 
-Western Echo, 9th November 1886  
+<h4><p>Western Echo, 9th November 1886 </p></h4> 
 
 <p>‘No, no, it is not that’ answered Mrs <span class="personal-name">Quaibu</span> hurriedly. I do not know how it is, but I feel more pleasure when there are many of us; when each one strives to beat the other.’  </p>
 
@@ -672,7 +672,7 @@ Western Echo, 9th November 1886
 
  
 
-Western Echo, 20th-30th November 1886 
+<h4><p>Western Echo, 20th-30th November 1886 </p></h4>
 
 <p> The evil passions and violent temper inherently hers, which were completely dormant in her native marriage state were roused in the other, and by men pro- Tessing to be followers of Christ too. Poor <span class="personal-name">Quaibu</span>! it is no wonder that you cursed the day in which you were induced to take an oath which you would not break But for that oath could Mrs <span class="personal-name">Quaibu</span> dare act like that? but for that, could she' have treated him so, and be let off scot free? He could not effect a separation, since neither of them could be charged with the crime of adultery. That night, <span class="personal-name">Quaibu</span> laid ir his bed, trying hard but in vain to find the benign influence of Somnus;39 long and restless did he lay, but his sleep forsook him; so to the hall he went, and in walking about to and fro, found a little rest. On his knees he knelt long, and in fervent prayer to God sought consolation and fortitude, and he found it. At last he rose up, and went to bed, but not to sleep. He spent the rest of the night in thinking as to the best course to take under the existing circumstances; arid he at last decided to give her the long rope or tether.40 For the first few days, Mrs <span class="personal-name">Quaibu</span> would go out and stay longer than usual, without poor <span class="personal-name">Quaibu</span> remonstrating with her about it. Then she would suddenly take to staying at home and would not even go to her class-meetings, or even to chapel. But all these <span class="personal-name">Quaibu</span> treated with perfect indifference. His behaviour towards her was a mere cold civility. He excluded himself entirely from her society, and in this treatment he found a most effectual weapon; for many a time would Mrs <span class="personal-name">Quaibu</span> come out of her room with weeping and traces of tears on her visage. On these occasions she would come out and sit by him; but <span class="personal-name">Quaibu</span> would get up pretending that he was going to fetch a book, and then sit down at some distance from her, pretending to read but narrowly watching her. <span class="personal-name">Quaibu</span> could not but be glad at the spirit of contrition exhibited by his wife but he thought better to continue the line of conduct he had intended to pursue. So matters went on, until one day Rev Langley came in whilst Mrs <span class="personal-name">Quaibu</span> was in her own room with her door ajar. After the usual civilities were gone through, and he had taken a seat, Mr Langley commenced by inquiring after the health of Mrs <span class="personal-name">Quaibu</span>, at the same time looking keenly at Mr <span class="personal-name">Quaibu</span> whose 'so, so' seemed not to surprise him in the least; he then said: </p>
 
@@ -700,7 +700,7 @@ Western Echo, 20th-30th November 1886
 
 <p>‘But why such great objection against the place?’ demanded Mr Langley. ‘Is the man not a class leader and a local preacher too? One who is trusted by all of us?’  </p>
 
-Western Echo, 7th-13th December 1886 
+<h4><p>Western Echo, 7th-13th December 1886</p></h4> 
 
 <p>‘There lies the contest Mr Langley. It is there that we are at issue. I resolutely object to the place for several reasons, but principally, the exclusion of the lady of the house from these pious gatherings. Mrs Elsmore was a heathen but a few years ago, so were these ladies we are talking about; she is imperfect, in fact, a novice in religious precepts, so are they; she is a class member and regularly frequents places of worship, so are these other ladies, and they also are as regular in their attendance; class meetings and such resorts are not sufficiently powerful to take the other ladies to their God; therefore it is that they require further religious instruction; but Mrs Elsmore being perfect does not of course need them. Answer Mr Langley! is there any man perfect in this world? Is Mrs Elsmore?’</p>  
 
@@ -744,7 +744,7 @@ if Mrs Elsmore is not perfect as you rightly say, she must also need religious i
 
 <p>‘No thank you,1 replied Mr Ouaibu. laying emphasis or word yen. ‘She is my wife, and it is to me alone that she owes obedience. I will recognize no one between me and her. If she finds her fault, and promises not to do so again I will forgive her; if not, she leaves me, and there is an end of it. For what is life after all but a wink, a twinkle of the eye; and why should I spend it in misery simply because a woman would not allow me to enjoy it, by trampling upon myself respect, and peace of mind? a woman whom human institution only has attached to me indissolubly; but for which institution she would have been  alright! I can assure you, dear Mr Langley, if I had a hundred wives, and they M all treated me as this woman is treating me, they would all go in spite of the I oath I have taken, I would stand my chance of going to heaven.' </p>
 
-Western Echo, 16th-23th December 1886 
+<h4><p>Western Echo, 16th-23th December 1886</p></h4>
 
 <p>Shortly after the parson had taken his departure, Mr <span class="personal-name">Quaibu</span> knocked at his wife's door, and on being admitted, he went in, took a seat at some distance from her, and thus addressed her: </p>
 
@@ -752,9 +752,9 @@ Western Echo, 16th-23th December 1886
 
 <p>Thus saying, <span class="personal-name">Quaibu</span> left his wife and went out to call upon Mr Brandeboult. When he returned home he found Mrs <span class="personal-name">Quaibu</span> in the deepest distress; but with-out taking the slightest notice of her, went io his own apartment where the lady shortly joined him. What took place between them, I need not trouble the reader with its relation. Enough if I mention that a complete reconciliation was established, she, promising lawful obedience to him, and, he promising her protection, and free scope to worship her Maker any where but at that place which had been a bone of contention between them which very nigh led to a separation.</p>	 
 
-CHAPTER X  
+<h2><p>CHAPTER X  </p></h2>
 
-Western Echo, 16th-23th December 1886 
+<h4><p>Western Echo, 16th-23th December 1886 </p></h4>
 
  
 
@@ -764,7 +764,7 @@ Western Echo, 16th-23th December 1886
 
 <p>Mrs Allen, on the other hand, is a woman of the first water in the town of Dobblesie as concerns position, natural qualities, and audacity. In the community in which she moves, she leads; but in that which is above her own, she isa decided fawner. If that woman had the advantages of education, she certainly would have been a prodigy, but she was illiterate. A tew years ago, Mrs Allen was a heathen, a great believer in fetish, although she was living" in a town where Christianity had taken root long before she was born: but a change came over the spirit of her dreams, and she got converted. Soon after this; she was led by Mr Allen to the hymeneal altar, but some people say that she led him instead, and that, on her part it was a marriage of convenience: but whether it was so or not, the sequel will prove. Allen, after the marriage was solemnized, removed to his wife’s house; who. also, it was reported, provided him with all the necessaries of life, even clothing, she used to say herself. It would seem that prior to their union, Mr and Mrs Allen did not know each other’s dispositions, nor had they the least knowledge of the weighty responsibility of the kind of marriage they understood, or I question whether the" woman's money would have been sufficient incentive for the man; or the man’s good looks would have been equally the same to move either of them to take such a leap in the dark. Certain it is, their eyes were opened when it was too late for them to retract. At all events, a marriage contracted where the preponderance was on the side of the woman, and that woman too an illiterate one, can breed nothing else but discontentment and heart burnings on either side, but more particularly on the part of the man. Mr Allen was literally helpless. His was the part of a second fiddle player a nonentity in a position where as a man he should be the ‘boss’. Poor Allen! I pity you more than ever I pitied <span class="personal-name">Quaibu</span>, in as much as you never had nor ever will have the protecting power, the most essential quality in man, situated as you are, to ensure obedience from your wife - the sole thing that ensures happiness in married life. Bear up therefore man, and eat your humble-pie with good grace,41 for there is no retracting for you, except by ADULTERY, saving which DEATH. I wonder whether thou wouldst, if by any chance thou wert free tomorrow, be in a hurry to contract the same kind of marriage. With the woman what more did she care since she had got the honorable title of MRS prefixed to her adopted name - the husband’s name. Is she not called Mrs Allen? And could she not afford to look down upon those who, although they are very happy in their native marriages cannot be called by their husband’s name? What a sin! Mrs Allen sounds sweet; but like the rose it has its thorny parts, rows, bickerings, heart burnings, jealousies. Trim the rose tree of the thorns and you kill the flower Divest this kind of marriage of its indispensable adjuncts - bickerings, heart burnings and petty jealousies, and that marriage is dead, for the day that one does not hear any more of these rows, or the poor victims don’t feel the heart burnings, and annoyances would be the day that they obtained a divorce, or death removed them from their misery. </p>
 
-Western Echo, 31st December 1886I  
+<h4><p>Western Echo, 31st December 1886</p></h4>  
 
 <p>I trow if Mrs Allen was offered the chance, she would not sooner have her Allen as a native married husband, and Mr Allen, if the same chance was offered, he would not rather have his Junins Miminda 42 as a wife, and he happier, a hundred times happier than what they are now. It would be supposed that the lady in her converted state, and as a respectable married woman, for no other marriage can be considered respectable but the oath-taking one, would divest herself of certain proclivities which are essentially the heathen’s, and clothe her-self with those which Christianity alone engenders, but Allen to his cost found that it were easier for a leopard to change his spots than his spouse to change her nature. It was in this alone that he found the greatest cause to complain of in his wife.  </p>
 
@@ -804,15 +804,15 @@ Western Echo, 31st December 1886I
 
 <p>‘Act like a man?’ cried Mrs Allen with the greatest contempt. ‘You act like a man! In what house I pray? Not in this house certainly. You act like a man in deed! I should like to know what you were when I first picked you up. Fancy a man dependent for everything, even for the very coat on his back, upon another, acting like a man in a position! You forget yourself entirely, Mr Allen; you forget I am the mistress of this house; that 1 feed you and that in providing for you in everything I become the mistress of the position, and that if you do not take care I could send you out.’ </p>
 
-Western Echo, 10th-27th January 1887 
+<h4><p>Western Echo, 10th-27th January 1887 </p></h4>
 
 <p>‘Has it come to this!’ exclaimed poor Mr Allen. ‘Have the monies that I bring to you monthly no place in your memory? Is it not sufficient to buy clothes for half a dozen persons, feed any number of men in a household? and now I must look to you for even my clothes, and, I suppose, I must thank you for the very employment which yields me the money I foolishly hand to you every month. Oli God!’ exclaimed Allen entirely upset. Is it for this that I blindly rushed into this marriage? Is it for this that I swore before THEE, my Great Creator, that would never cause a dissolution until death us part! Did I sacrifice my manhood, did I sell my virile qualities, and to a woman too who does not scruple to make use of my helplessness in order to trample upon it! A hundred times, nav a thrice hundred times would I most willingly undo this, and enter into a marriage wherein freedom is allowed; for therein only would I find peace of mind to worship thee, oh my Great Maker! If I do commit sin now, O Lord, I commit it because human nature cannot withstand it any longer.’</p> 
 
 <p>That night Mr Allen fully resolved upon something; a few weeks rumour proclaimed that he had broken the oath he took at the altar: a few months after a child claimed him a father, but that child was not Mrs Allen’s. The man had given the woman a splendid chance to seek for a divorce, but she would not take a step to cause a separation. The woman wanted the title of Mrs, she had got it, and faith, she was not going to lose it so easily. Allen perjured himself in order to find consolation, rather than to be always the victim of circumstances over which he could have no control. Mr and Mrs Allen are still living together; the occasionally seeking consolation in the company of other women; and the other in no way the wiser, but still going on in the same way which her natural proclivity dictates; and yet they are all members of class and reputed zealous Christians. What dissimulation! what hypocrisy! Can anything or any situation be more anomalous than this is? and yet it is but too true! </p>
 
-CHAPTER XI 
+<h2><p>CHAPTER XI </p></h2>
 
-Western Echo, 10th-27th January 1887 
+<h4><p>Western Echo, 10th-27th January 1887 </p></h4>
 
 <p>Other instances of the like episode related in the previous chapter are not wanting to illustrate the evil influences of Christian Marriages in a community like that of Sickaman, and it would be within the province of this tale to relate a few.  </p>
 
@@ -822,7 +822,7 @@ Western Echo, 10th-27th January 1887
 
 <p>Shortly after their marriage Mr and Mrs Littlemonie removed to the town of Soldeterre, a rising trading port, which has since risen to a town of some eminence in sickman. They had not been long in this town when rumour ever so vigilant began to whisper that the domestic arrangements of this new couple were not always felicitous. People would not believe the rumour. Was it not only the other day that these persons were married? And could they be so soon experiencing the evil effects of this new kind of marriage? Impossible! Yet it was possible; for ill assorted marriages breed nothing else but weeds, and rancorous weeds are of spontaneous growth. Poor Mr Littlemonie! I cannot help pitying you whilst writing about you; for were we not friends? and were there not many occasions when we sat long together conversing about your domes-tic felicity, and occasions when you w’ld escape from a house rendered too hot for thee to remain in it any longer and to seek temporary asylum at mine? Rumours soon gave way to reality. One evening a great row took place which was a precursor of several others which happened between them afterwards. Several persons went there to allay the tempest; and what a sad scene was there presented to our eyes! There we found Mrs Littlemonie completely the mistress of the occasion, abusing her lord and master in the filthiest language she could think of and Neaping upon him all the worse epithets, cither true or false, that she Thought to which her husband was chargeable: whilst the man Was sitting down crying like the very child? It was the first time the couple publicly tried their mettle; and on such occasions the victor generally becomes for the rest of the lives, unless a divorce takes place, the master or the mistress of the house-hold. On his occasion we saw who the future ruler was to be. Mrs Littlemonie, by that first row, had publicly asserted her independence: her husband must be obedient to her caprice and whims. It really was a sad scene.' When the woman should have exited commiseration, the man most pitifully did. We removed or rather took Mr Littlemonie from his house amidst volleys of small shots, hot and burning, which the shrew of a wife of his aimed at him: just as much to say:' Go you transmuted man, henceforth I am the MASTER, and you the MISTRESS of this household. And what was the cause of the row? it may be asked. It Was utterly nothing to speak of. The woman was beating one of the servants without cany apparent cause, and because her husband remonstrated with her about it she turned upon himself instead. Bitter indeed is the tongue, of a woman generally, but from the tongue of a shrew, ‘Good Lord deliver Mrs Littlemonie was a pitiless shrew in the real sense; and as such she was not sparing in the use of its hateful effects upon her poor husband. From that day the natures of these two persons were changed, the woman became the master, and the man the mistress of the house; he was only a husband in name, his virile Quality having been entirely taken away from him by the woman; a quality which she unmercifully used to the detriment of not only those who were near and dear to him but to the poor man himself, no mother, no brother or sister, no ran uncle or aunt of the husband could find rest in the house, consequently none of them went to see him. In fact Mrs Littlemonie was the exact type of the heroine of the following tale I heard when 1 was at school in England. </p>
 
-Western Echo, 10th-27th January 1887 
+<h4><p>Western Echo, 10th-27th January 1887</p></h4> 
 
 <p>A certain man in some part of England had by dint of perseverance, industry, and frugality saved or rather made a considerable fortune which he intended to leave to an only son after his death. He sent this son to School, and when the youth acquired all the learning which would fit him for the station in which he intended him to live, he made him a partner in his business, and eventually handed it over to him together with his other properties, including his house. All what the old man reserved for himself was an apartment in the house, a seat at his table, and certain comforts which, as an old man, he could not do with-out. In order the more to ensure the happiness of his son he married him to a young woman of his own selection and love. The management of the house-hold was of course given to the lady as soon as she arrived. This lady was brought up in the school of fashion, and consequently liked to see things according to her own ideas. She commenced therefore her housekeeping by changing the old furniture in the house, and replacing them with new ones, and by upsetting everything to which the old gentleman had long been accustomed, and rearranging them to suit her own comfort and style. Against all these innovations the old man said nothing although he keenly felt it. An ancient armchair, the property of his grandfather, or an old table, or some such other furniture to which he had been attached from his infancy, possibly the only thing remaining by which he remembered a father, or a mother long dead, or a beloved wife also dead, he was obliged to see removed and sold, and new one substituted which could afford no link between himself and persons who in their life time were so dear to him. He could not very well speak to hi* son’slady, but he could speak to nis own son about this conduct of his wife which was to him any thing but pleasing. So he did one day speak to him in his own apartments. In reply the young man said: T have already remonstrated with my wife, but she would not give in to me. I have sited bitter tears in private to see how acutely you feel these innovations, and the profane use by my wife of lungs which you have so long considered as sacred, but although she saw my distress she would not obey me. I have even told her how much you are wedded to these things and that possibly if they were removed it might hasten your death, but all to no purpose. I need not tell you how very much 1 am also wedded to the things which you and my grandfather before you have used, coupling my own inclinations and wish for their preservation with the pain and grief their removal would cause you. I can assure you, father, I did all that any man could to persuade her from pursuing a course as painful to you and me, but she would have her way. I have gone so far as to tell her that rather than that she should remove the old things I would remove to another house with her, where she could do whatever she liked, thus to enable you to live in peace and quiet-ness during the few days that you have to live, but nothing would make her leave the house. O how really grieved I am to have a wife who is so inconsiderate and selfish in her ideas, and so obstinate in her principles. I have only one course left me, and that is to use the prerogative of a husband and compel her to submit to me in this, if not in any thing else? </p>
 
@@ -830,7 +830,7 @@ Western Echo, 10th-27th January 1887
 
 <p>The woman did not succeed in her wickedness without stout resistance from her husband. Many a night, many a day, the man and wife would set to in private and have it out in real earnest. These rows generally took place in the presence of their little son, a precocious boy, who was the darling of his parents,  but particularly of his grandfather. This boy would quietly sit by with his primer in hand listening to the altercations. He would sometimes stand by his father and speak for his grandfather in a spirit which would often astonish his mother; but in-spite of all this the woman carried her point. At last the old gentleman made up his mind to leave a house the mistress of which had evidently determined to starve him out. He sent for his son to say good bye to him, and for his grandson whom he squeezed to his heart in long embrace, muttering a blessing upon him. The boy cried as if his little heart would break. A scene so pathetic as this, the son could not endure; his hurt was breaking to see his father, the kindest of fathers, turned out of house and home and sent adrift in the evening of his life among strangers and by his own wife too; but he was too proud to show his weakness before his father and son, so he took the latter away, and in his privacy gave vent to his feelings. Sometime after the man returned with his wife leading the boy between them, to bid a final good-bye. When they were leaving the boy took his grandfather s mat, and only thing he had saved out of all his furniture. This he intended to take with him, being only thing now left to put him in mind of AULD LANGSYNE. The old man looked at him sorrowfully but said nothing; whilst the father tried to take away the mat from him but the boy would not give it up. The mother was so shocked that she exclaimed, ‘What boy! would you be so wicked as to take away grand-pa’s mat?’ ‘Yes,’ replied the boy. I am not only going to take it, but I am going to cut it into two! ’ ‘Cut it into two! ’ exclaimed the good kind lady really horrified. ‘You good for nothing boy! Give me that mat instantly.’ ‘No, Mamma I wont’, replied the brave boy. ‘But suppose you cut it into two,’ asked the father, ‘what would you do with them?’ I WILL GIVE GRANDPA ONE HALF, AND KEEP THE OTHER HALF FOR YOU, PAPA.’ ‘For me you naughty little boy!’ cried the father quite astonished. ‘Yes’, replied he; ‘when you grow old as grandpa, and my wife turns away from the house," our wife is turning him out now?! will men give you the other halt? - saying this he rushed to and nestled on the breast of the old gentleman with whose scalding tears he mingled his in deep lamentable wailing. His father stood as if struck by a thunderbolt, he looked vacantly as if demented. As for the woman - and what  woman was not found ever ready on any emergency! - she flew to the old man knelt before him, and whilst mingling tears of contrition with his, asked his forgiveness. If ever a shrew a termagant was broken in that little chap turned the spirit of his mother; forever afterwards the old man was properly taken care of by her, and nothing which he wanted to make him happy did she deny him. </p>
 
-Western Echo, 16th 31st March 1887 
+<h4><p>Western Echo, 16th 31st March 1887 </p></h4>
 
 <p>If this tale is not strictly analogous in some points to that of Mr and Mrs Littlemonie let it however serve to show the difference between the white virago and black scold. Whilst the lady, by highly civilian society in which she was brought up and moved, wholesome checks to or upon her natural wicked propensities, as in this instance; the black woman could never dream, at all events according to the present state of society, of being so fortunate, the society in which she moves being primitive, consequent! v-she could have no\ checks upon her way waywardness. If Mrs Littlemonie had amongst her some one whose natural good disposition had been shell shaped and corrected by such tuition only inculcated in civilized and enlightened families before they are sent to public Schools, she certainly would not have succeeded so well as she did, in tormenting her husband and those who were connected with him by blood. But the introduction of Christian marriages among us was a bane, coming as it did without those other requisites which alone could make it in some respects a happy institution. An iron vessel is very good, certainly very strong, but it is as liable to break as a clay vessel. Some people by education, trade, or professional know how to repair it so as to bring it to its pristine strength; but what can poor, ignorant, and semi barbarous creatures like us do? Shall we be taught the necessity of acquiring the use of these strong iron vessels — church marriage - in fact, compelled to use them by paying a very high price for them, the loss of our freedom, and yet having not the means to mend or repair them when they break? Can we repair them with mud or clay, the only materials in our possession now? No. Is it not better to be contented with our clay vessel which we can repair when it breaks until by education, trade, or profession and general habits or custom we could mend the iron vessel when it does break? I certainly would not thank a man who forces me to wash and be clean whilst I find myself helplessly in deep mud, with no power of myself to get out of it. Get me out, first and the ablution afterwards and I will be happy in my thankfulness to you. </p>
 
@@ -844,9 +844,9 @@ Western Echo, 16th 31st March 1887
 
  
 
-CHAPTER XII  
+<h2>CHAPTER XII  </h2>
 
-Western Echo, 14th-28th April 1887 
+<h4>Western Echo, 14th-28th April 1887</h4> 
 
 <p>We will now introduce the reader to a private confabulation of a few unfortunate women whose happiness had been wrecked upon the hymeneal rocks! How very much are you to be pitied in your shackled circumstances! </p>
 
@@ -882,7 +882,7 @@ Western Echo, 14th-28th April 1887
 
 <p>‘Oh, no; it certainly is incomprehensible,’ replied she. ‘But I must consider the fault to be more on the side of the woman than on the side of the man.’</p> 
 
-Western Echo, 16th-31st May 1887 
+<h4><p>Western Echo, 16th-31st May 1887 </p></h4>
 
 <p>‘Nay,’ replied Mrs Elsmore: ‘if Mr Drumlett, in the instance of Miss Ekbinna’s visit had shown the respect due to his own wife, don’t you think that the rest would equally respect her? I do not uphold the conduct of the women, but the men are more to be blamed.'</p> 
 
@@ -922,9 +922,9 @@ Western Echo, 16th-31st May 1887
 
  
 
-CHAPTER XIII 
+<h2><p>CHAPTER XIII </p></h2>
 
-Western Echo, 15th-30th June 1887. 
+<h4><p>Western Echo, 15th-30th June 1887. </p></h4>
 
 <p>It is sometime since we lost sight of Mr Mrs <span class="personal-name">Quaibu</span>.  We will now give them a look up.  Mrs <span class="personal-name">Quaibu</span>, I  am happy to say, has become reconciled to her position, has entirely given up the would-be religious association, was really attendance in chapel, and was perfectly contented with class meetings, attendance  in chapel, and other  legitimate places of worship. Matters of his lady love. Peace, love, and concord reigned in their domestic hearth; No couple could be pleased and at peace with themselves, and with their neighbours than they were. </p>
 
@@ -984,7 +984,7 @@ Western Echo, 15th-30th June 1887.
 
 <p>‘Which means, Mr Saint,’ returned <span class="personal-name">Quaibu</span> getting really hot, ‘that as you are a member of the society, and therefore infallible, you could associate with other people’s wives without being tempted to fall foul of them, but that I being a nun-class member, consequently wicked, you would not allow me to visit your wife, because, forsooth, a crime would, nay, must happen between us. Your proof against temptation therefore is in your being a member of the society, and my weakness in being a non-member?’</p> 
 
-Western Echo, 16th-30th July 1887 
+<h4><p>Western Echo, 16th-30th July 1887 </p></h4>
 
 <p>I really did not mean to insinuate that —’ </p>
 
@@ -1016,7 +1016,7 @@ Western Echo, 16th-30th July 1887
 
  
 
-Western Echo, 17th-31st August 1887 
+<h4><p>Western Echo, 17th-31st August 1887 </p></h4>
 
 <p>‘No! I don’t know,’ replied Mr Elsmore more sullenly. </p>
 
@@ -1070,9 +1070,9 @@ Western Echo, 17th-31st August 1887
 
  
 
-CHAPTER XIV 
+<h2><p>CHAPTER XIV </p></h2>
 
-Western Echo, 16th-30th Sept 1887 
+<h4><p>Western Echo, 16th-30th Sept 1887 </p></h4>
 
 <p>he last chapter with the arrival of Revd. Mr Langley and another gentleman. Mr <span class="personal-name">Quaibu</span> met them on the stairs and brought them to the hall. After the usual introductions were gone through and they had seated themselves a desultory conversation took place in which the Rev Mr Cranbrook, the white Minister, took the principal part. After which Mr Langley said: ‘Dear Mr <span class="personal-name">Quaibu</span>, Mr Cranbrook and myself have called upon you for two purposes; first and foremost to introduce Mr Cranbrook, our new Minister to you; and then to present to you this paper, which as soon as you sign your name, and the amount of subscription you will give, which I hope will be a liberal one, you will hand to Mr Brandeboult for the same purpose.’ Mr <span class="personal-name">Quaibu</span>, after Mr Brandeboult had done so, returned the subscription paper to Mr Langley, who thus addressed Mrs <span class="personal-name">Quaibu</span>, I am glad to find such a complete reconciliation between you and your dear husband. Do you miss the Association, that bone of contention at all?’' </p> 
 
@@ -1114,7 +1114,7 @@ Western Echo, 16th-30th Sept 1887
 
 <p>‘This Association has for its ostensible object exactly what Mr Langley has told you. If that was all it would have been well enough in its way, and in certain respects helpful to the good cause. But it has another object promoted by motives unworthy of a people who profess to be sincere Christians. It is against this object and its motives that I have a decided antipathy. As you are a stranger to the life and habits of the people, especially the women, before proceeding I will explain them to you as briefly as possible. That we are a people just emerging from a state barbarism; that we have not 6acf time or even opportunities, except what opportunities the Missionaries afford us, to correct our some what imperfect morals; that what appears in the eyes of strictly moral Europeans, loathsome, base and impure, to some of us is correct, and even our religious community cannot be said to be tree from the evil influences which it has failed to eradicate; so if I bring all these to your notice you will more readily under-stand how it is that I strongly set up my heart against an association the promoters of which were brought up by parents with surroundings of the nature I have described; and whose boastful advantage over the illiterate women whom they have elected io teach is io be found only in the partial education they have received, but whose morals are of the same standard as those upon whose morals and evil nature they pretend to pour the wholesome influence of religion. The greatest forte that Christianity has over the other religions is indisputably in its upright, just, and righteous teachings; and in its inculcating in the minds of its converts the practice of pure, wholesome, and holy morality. Morality therefore is of vital importance to the Christian religion, and its teachers must on that account, and in order to achieve that end, be strictly moral. If the teachers or leaders thereof be of indifferent morality they surely ought to be likened to the indifferent, ignorant, and indolent husbandman whose field produced nothing else but indifferent com, and a great deal of rank weeds and rancorous shrubs: and they should not be allowed to form associations of their own apart from the general body, wherein they have unbounded control, and of whose proceedings the elders of the Church cannot be expected to know much, if anything at all about it.’</p> 
 
-Western Echo, 17th-31st October 1887 
+<h4><p>Western Echo, 17th-31st October 1887 </p></h4>
 
 <p>‘Certainly, Mr Cranbrook; and also the unseemly time, and the reprehensible and really unfitting places in which it is held.’ </p>
 
@@ -1158,7 +1158,7 @@ Western Echo, 17th-31st October 1887
 
 <p>'I have nothing whatever to say against the society, or against the leaders generally,’ replied <span class="personal-name">Quaibu</span>. ‘If I know any thing to the detriment of a few of them - and you Mr Langley know whom I mean - as concerns their sacred character, it is not my wish to talk about it, specially when the parties them-selves are not here. Three of them were here today, and they went away fully convinced that the public know more of them than they supposed. Mr Langley would do well to let allayed dust rest; if he would disturb it nothing good will come of it. I hope you will like the place Mr Cranbrook and that you will keep you health as to remain long with us.’ </p>
 
-Western Echo, 15th-30th November 1887 
+<h4><p>Western Echo, 15th-30th November 1887 </p></h4>
 
 <p>Thank you Mr <span class="personal-name">Quaibu</span>. I think my health will keep well, as I have been to many of the West India Islands and stayed some years. You know the climate there is not very different from this.’ </p>
 
@@ -1226,7 +1226,7 @@ Western Echo, 15th-30th November 1887
 
 <p>The friends sat for some time talking about different subjects over their wine and afterwards Mr Brandeboult left, leaving <span class="personal-name">Quaibu</span> to brood over things in general, and over his encounters during the day in particular. We will leave him thus engaged for the present. </p>
 
-Western Echo, 16th-31st December 1887 
+<h4><p>Western Echo, 16th-31st December 1887 </p></h4>
 
 <p>The town of Dobblesie like any other primitive places of similar condition can neither be called civilized, nor can it be called barbarous. It can not be called civilized because the mass or at least the greater number of the people or inhabitants are barbarous; neither can it be called barbarous because there are some, although few, educated and Christian people amongst them who are civilized. Being thus situated it is impossible to call its society a select one. Excepting the European portion of the community, the society is promiscuous in the extreme; the reason being the close relationship existing between the literate and the illiterate, the Christian and the heathen. It is no matter of wonder therefore to find people of all classes and conditions meeting at a respectable native gentleman’s house now and then to talk about the news of the day, and to converse about other subjects. It is one of these kind of sudden social gatherings, and the principal subject of conversation that took place that we are about-writing. </p>
 
