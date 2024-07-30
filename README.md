@@ -42,7 +42,7 @@
 
 CHAPTER I 
 
-BONSOE PENIN’S INTERVIEW WITH <span class="personal-name">$1</span> 
+BONSOE PENIN’S INTERVIEW WITH <span class="personal-name">QUAIBU</span> 
 
 UPON THE SUBJECT OF HIS IMPENDING MARRIAGE 
 
