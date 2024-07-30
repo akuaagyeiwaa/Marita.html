@@ -413,7 +413,7 @@
 
 <p>‘Oh no, that was not my intention when I said that. But you must acknowledge that we had really too much of it lately, and I was never accustomed to such a dissipated course before I came here.’ </p>
 
- <p>‘Be off 'with you,’ exclaimed <span class="personal-name-3">Bonsoe Penin</span>. ‘To talk of dissipation. Is there any place more “dissipated” than your <span Class-"place-name-1">Dobblesie</span>?</p>  
+ <p>‘Be off 'with you,’ exclaimed <span class="personal-name-3">Bonsoe Penin</span>. ‘To talk of dissipation. Is there any place more “dissipated” than your <span class="place-name-cape-coast"><a href="https://en.wikipedia.org/wiki/Cape_Coast" target="_blank">Cape Coast</a></span>?</p>  
 
 <p>‘<span Class-"place-name-1">Dobblesie</span> is certainly a “dissipated” town, but it is quite a quiet place when compared to that town of yours. <span Class-"place-name-2">Gangacre</span> is notoriously known to be the jolliest town in our part of the coast; you must acknowledge that, <span class="personal-name-3">Bonsoe Penin</span>. </p>
 
