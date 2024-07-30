@@ -1042,7 +1042,7 @@ Western Echo, 17th-31st August 1887
 
 <p>‘You should not talk so Mr Brandeboult,’ replied Mrs <span class="personal-name">Quaibu</span> very shocked. </p>
 
-<p>‘<span class="personal-name">$1</span> is bad, but it appears to me that you are no better. True is the saying that birds of a feather flock together, and you two gentlemen have done much by your actions to exemplify that true saying.’ </p>
+<p>‘<span class="personal-name">Quaibu</span> is bad, but it appears to me that you are no better. True is the saying that birds of a feather flock together, and you two gentlemen have done much by your actions to exemplify that true saying.’ </p>
 
 <p>‘Certainly, my dear madam’ replied he jocosely. ‘Do you not prefer our feathers, feathers that could hide no filth nor any kind of vermin; or do you prefer birds which have them hidden in their splendid plumage, that you cannot caress them for fear of being troubled with them? No, no, madam, our motto is to do the best we can, but if we fail in well-doing to show our true colours and not disguise them. Is not that better? </p>
 
