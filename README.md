@@ -214,7 +214,7 @@ Western Echo, 10th April 1886 –
 
  <p>I should like it very much —’  </p>
 
-<p>‘But supposing Mr <span class="personal-name">$1</span>,’ interrupted the Reverend gentleman intentionally, ‘were to tell you not to, what would you do? Would you obey him rather than keeping the promise you have just given me?’ ‘My husband never denies my anything which he considers good for me; and in this one I am sure he will allow me.’ </p> 
+<p>‘But supposing Mr <span class="personal-name">Quaibu</span>,’ interrupted the Reverend gentleman intentionally, ‘were to tell you not to, what would you do? Would you obey him rather than keeping the promise you have just given me?’ ‘My husband never denies my anything which he considers good for me; and in this one I am sure he will allow me.’ </p> 
 
 <p>‘You do very well to have such confidence in your husband - in Mr <span class="personal-name">Quaibu</span>; but supposing he prevents you?’</p>  
 
