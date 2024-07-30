@@ -1218,7 +1218,7 @@ Western Echo, 15th-30th November 1887
 
 <p>‘Whether there be women or no women amongst them, and they would be a strange race if there were not, it is no business of mine. I have got my own name, and I will be known only by that name, and none other Messrs <span class="personal-name">Quaibu</span> and Brandeboult of the old firm of TEASE & BUSY. </p>
 
-<p>‘Messrs Ouaibu and Brandeboult of the old firm of TEASE & BUSY BODY are extremely obliged to Mrs Tar—, I beg a thousand pardons, I mean Mrs <span class="personal-name">Q</span>,’ replied Mr Brandeboult pretending to be hurt; ‘and they will in future not tease her, and play the busy body over or with her affairs.’ </p>
+<p>‘Messrs Ouaibu and Brandeboult of the old firm of TEASE & BUSY BODY are extremely obliged to Mrs Tar—, I beg a thousand pardons, I mean Mrs <span class="personal-name">Quaibu</span>,’ replied Mr Brandeboult pretending to be hurt; ‘and they will in future not tease her, and play the busy body over or with her affairs.’ </p>
 
 <p>‘Mrs <span class="personal-name">Quaibu</span> considers that Messrs <span class="personal-name">Quaibu</span> and Brandeboult are wrong to suppose that she is capable of giving such an odious name to the great and most respectable firm of Tease and Busy, of which business they are the indisputable owners now; and finding that her words are misconstrued by a firm and in a company where she has got no chance - there being two TEASES against one victim, she considers the company to be rather too hot for her, and must there-fore find safety in taking her leave.* So saying she left the two friends gaping at each other with wonder and surprise.' </p>
 
