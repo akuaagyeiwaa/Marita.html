@@ -62,7 +62,7 @@ Western Echo, 30tfi January 1886
 
 <div class="paragraph">Bonsoe Penin here took a seat on the other side of the table at which he met his friend sitting and writing his books. Mr <span class="personal-name">Quaibu</span> called for a bottle of Moselle and two of soda and glasses. The boy took off the wines, placed the bottles on the tables and then retired leaving the two friends to enjoy themselves. ‘How clumsy you are today <span class="personal-name">Quaibu</span>’, exclaimed Bonsoe Penin getting up suddenly. ‘By Jove! you have wet me all over. On my clean shirt and collar! and I am due the court in twenty minutes time, and His Honour the Chief Justice is so provokingly punctual! Where the d— am I going to get a change of shirt? And the court is fully 15 minutes ride from here. I wish I never allowed myself to be tempted by this accursed drink. What must I do, <span class="personal-name">Quaibu</span>?’ </div>
 
-<div class="paragraph">I will lend you a shirt, old fellow and a dozen collars if you like,’ replied <span class="personal-name">quaibu</span> laughing. </div>
+<div class="paragraph">I will lend you a shirt, old fellow and a dozen collars if you like,’ replied <span class="personal-name">Quaibu</span> laughing. </div>
 
 <div class="paragraph">‘Pooh, man your shirt wont fit me, it will choke me. I will none of your babyish shirts, especially in court and to-day too when I have to defend a poor murderer and have to do all I can to save the poor man’s innocent neck from coming into close proximity with the hangman’s noose.’ </div> 
 
