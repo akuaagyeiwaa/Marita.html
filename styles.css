@@ -78,12 +78,12 @@ span.place-name:hover {
 }
 
 span.place-name-2 {
-    color:  #FFFF00;
+    color:  #DAA520;
     font-weight: bold;
     cursor: pointer;
 }
 
 span.place-name-2:hover {
-    color:  #FFFF00;
+    color:  #DAA520;
     text-decoration: underline;
 }
