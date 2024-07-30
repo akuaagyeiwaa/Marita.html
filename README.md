@@ -372,7 +372,7 @@ Western Echo, 31st May 1886
 
 <p>Miss Wissah seeing her husband in the miserable plight she had put him into, got up hastily and encircled her plump arms round his neck and gave him the kisses which she intended for the two persons, but which she really never intended to give them, and submissively begged him to forgive her. Mr <span class="personal-name">Mr Quaibu</span> reseated himself and was restored to the spirits in which he first went to his wife’s apartment, by her telling him that she merely assumed that attitude to punish him for daring to tease her, and treating her in a manner he never did before. </p> 
 
-<p>‘Then I must not believe a single word of what you said,’ said Mr <span class="personal-name">Quaibu</span> quite himself again. ‘No Mr <span class="personal-name">$1</span>,’ she answered, feeling really proud of her success in teasing her liege Lord and bringing him to her feet.</p>	 
+<p>‘Then I must not believe a single word of what you said,’ said Mr <span class="personal-name">Quaibu</span> quite himself again. ‘No Mr <span class="personal-name">Quaibu</span>,’ she answered, feeling really proud of her success in teasing her liege Lord and bringing him to her feet.</p>	 
 
 <p>‘Nor, my having kissed the young woman too?’ again asked he.  </p>
 
