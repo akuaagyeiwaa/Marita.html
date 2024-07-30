@@ -42,7 +42,7 @@
 
 <h2><p>CHAPTER I </p></h2>
 
-<h3><p><span class="personal-name-2"><span class="personal-name-2"><span class="personal-name-2">Bonsoe Penin</span></span></span>’S INTERVIEW WITH <span class="personal-name">QUAIBU</span> UPON THE SUBJECT OF HIS IMPENDING MARRIAGE </p></h3>
+<h3><p><span class="personal-name-2">Bonsoe Penin</span>’S INTERVIEW WITH <span class="personal-name">QUAIBU</span> UPON THE SUBJECT OF HIS IMPENDING MARRIAGE </p></h3>
 
 <h4><p>Western Echo, 30tfi January 1886 </p></h4> 
 
