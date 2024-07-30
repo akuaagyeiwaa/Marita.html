@@ -42,7 +42,7 @@
 
 <h2><p>CHAPTER I </p></h2>
 
-BONSOE PENIN’S INTERVIEW WITH <span class="personal-name">QUAIBU</span> 
+<h3><p>BONSOE PENIN’S INTERVIEW WITH <span class="personal-name">QUAIBU</span> </p></h3>
 
 UPON THE SUBJECT OF HIS IMPENDING MARRIAGE 
 
