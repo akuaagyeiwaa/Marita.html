@@ -406,7 +406,7 @@ Western Echo, 16th June 1886
 
  <p>What is the news of the day?’ enquired <span class="personal-name">Quaibu</span> of his friend. </p> 
 
-<p>‘There is no particular news that I am aware of,’ he at first answered, but subsequently added, ‘by the bye, <span class="personal-name">$1</span>, have you received any note from Mr Cleighmore? I went over to see him this morning on business, and whilst there I saw a lot of notes addressed to a few friends. I took mine and found it an invitation to dinner at his house tomorrow evening.’</p> 
+<p>‘There is no particular news that I am aware of,’ he at first answered, but subsequently added, ‘by the bye, <span class="personal-name">Quaibu</span>, have you received any note from Mr Cleighmore? I went over to see him this morning on business, and whilst there I saw a lot of notes addressed to a few friends. I took mine and found it an invitation to dinner at his house tomorrow evening.’</p> 
 
 <p> ‘Another dinner party! exclaimed <span class="personal-name">Quaibu</span> rather sorrowful. ‘These repeated dinner parties don’t agree with me. I wish I could discover a plausible excuse with a view to be absent.’ </p>
 
