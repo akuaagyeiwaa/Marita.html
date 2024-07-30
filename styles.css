@@ -131,7 +131,7 @@ span.personal-name-10:hover {
     text-decoration: underline;
 }
 /* Interactive styling for place names */
-span.place-name {
+span.place-name-1 {
     color:  #FFF0F5;
     font-weight: bold;
     cursor: pointer;
