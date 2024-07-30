@@ -86,7 +86,7 @@
 
 CHAPTER II 
 
-Western Echo, 24th February 1886 
+<h4><p>Western Echo, 24th February 1886 </p></h4>
 
 <p> ‘Where is Wissah?’ inquired Bonsoe Penin of his friend. I seldom see her lately; she used to call very often at my house to see her friends; but it seems to me that she avoids the place now. What can be the matter, <span class="personal-name">Quaibu</span>?’  </p>
 
