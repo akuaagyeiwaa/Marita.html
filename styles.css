@@ -48,6 +48,7 @@ span.personal-name-3 {
     color: 4cc9f0; /* Different color to distinguish */
     font-weight: bold;
     cursor: pointer;
+    
 }
 
 span.personal-name-3:hover {
