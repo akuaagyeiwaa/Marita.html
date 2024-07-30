@@ -56,13 +56,13 @@ span.personal-name-3:hover {
     text-decoration: underline;
 }
 span.personal-name-4 {
-    color: #000080; /* Different color to distinguish */
+    color: #191970; /* Different color to distinguish */
     font-weight: bold;
     cursor: pointer;
 }
 
 span.personal-name-4:hover {
-    color: #000080; /* Different hover color */
+    color: #191970; /* Different hover color */
     text-decoration: underline;
 }
 
