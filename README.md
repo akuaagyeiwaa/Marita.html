@@ -174,7 +174,7 @@ Western Echo, 17th March 1886
 
 Western Echo, 24th March 1886 
 
-<p>'I saw Mr <span class="personal-name">$1</span> with several friends going about a great deal the worse for liquor.' This was a feeler put by Mrs Pritzia to Miss Wissah who judging by the way for him. absence of her husband thought and rightly too, that he wanted her to prepare </p>
+<p>'I saw Mr <span class="personal-name">Quaibu</span> with several friends going about a great deal the worse for liquor.' This was a feeler put by Mrs Pritzia to Miss Wissah who judging by the way for him. absence of her husband thought and rightly too, that he wanted her to prepare </p>
 
 <p>‘They were all on the spree the whole day yesterday,' replied Miss Wissah. 'Mr Cookson invited them all to dinner the previous night and kept it up to a late hour. Mr <span class="personal-name">Quaibu</span> did not come home till one o'clock this morning. Between 8 and 9 o'clock this morning before he had scarcely rested Mr Bonsoe Penin and his brother Bonsoe Coomah called over to take 'a refresher,' as they called it, with him; and they continued at it for some time before they left. <span class="personal-name">Quaibu</span> had just finished breakfast and as the steamer was expected he was busy writing his business letters when all the friends that were invited to Mr Cockson’s dinner came in and spent a good portion of the day with him, of course drinking. There was no staying at home for him after that and they all went out together. He came home late in the night “screwed”21 and it is no wonder that you did not see him when you came in. He went to bed immediately after breakfast I must not stay out long as he may probably want me when he wakes up.’ </p> 
 
