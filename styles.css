@@ -44,7 +44,16 @@ span.personal-name-2:hover {
     color: ef798a; /* Different hover color */
     text-decoration: underline;
 }
+span.personal-name-3 {
+    color: 4cc9f0; /* Different color to distinguish */
+    font-weight: bold;
+    cursor: pointer;
+}
 
+span.personal-name-3:hover {
+    color: 4cc9f0; /* Different hover color */
+    text-decoration: underline;
+}
 /* Interactive styling for place names */
 span.place-name {
     color: ef798a;
