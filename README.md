@@ -1163,7 +1163,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>Thank you Mr <span class="personal-name">Quaibu</span>. I think my health will keep well, as I have been to many of the West India Islands and stayed some years. You know the climate there is not very different from this.’ </p>
 
-<p>‘This is your first visit to Africa I suppose?’ inquired Mr Brandeboult. </p>
+<p>‘This is your first visit to <span class="place-name-africa"><a href="https://en.wikipedia.org/wiki/Africa" target="_blank">Africa</a></span> I suppose?’ inquired Mr Brandeboult. </p>
 
 <p>‘To this part, yes; but I have been to other parts. I have been to the Cape, <span class="place-name-madagascar"><a href="https://en.wikipedia.org/wiki/Madagascar" target="_blank">Madagascar</a></span>, <span class="place-name-egypt"><a href="https://en.wikipedia.org/wiki/Egypt" target="_blank">Egypt</a></span>, and other places; <span class="place-name-sierra-leone"><a href="https://en.wikipedia.org/wiki/Sierra_Leone" target="_blank">Sierra Leone</a></span> was my last station.’ </p>
 
