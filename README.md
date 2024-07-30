@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marita or the Folly of Love</title>
+     <title>Place Names</title>
     <link rel="stylesheet" href="styles.css">
     <style>
          <title>Justified Paragraphs</title>
