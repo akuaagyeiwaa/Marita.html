@@ -40,7 +40,7 @@
 
  
 
-CHAPTER I 
+<h2><p>CHAPTER I </p></h2>
 
 BONSOE PENIN’S INTERVIEW WITH <span class="personal-name">QUAIBU</span> 
 
