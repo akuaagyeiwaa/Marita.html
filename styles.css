@@ -35,19 +35,19 @@ span.personal-name:hover {
 }
 
 span.personal-name-2 {
-    color: green; /* Different color to distinguish */
+    color: pink; /* Different color to distinguish */
     font-weight: bold;
     cursor: pointer;
 }
 
 span.personal-name-2:hover {
-    color: darkgreen; /* Different hover color */
+    color: darkpink; /* Different hover color */
     text-decoration: underline;
 }
 
 /* Interactive styling for place names */
 span.place-name {
-    color: green;
+    color: pink;
     font-weight: bold;
     cursor: pointer;
 }
