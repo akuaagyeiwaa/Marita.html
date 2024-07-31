@@ -471,7 +471,7 @@
 
 <p>'But I see many legally married couples who live happily together even in our country; why should not others?' asked Miss <span class="personal-name-2">Wissah</span>. 'As for instance who my dear girl?' replied <span class="personal-name">Quaibu</span>.</p> 
 
-<p> ‘As for instance, Rev Mr <span class="personal-name-4">Pritzia</span> and his wife, <span class="personal-name-26">26.	Hon Coontarmas</span>, Mr Gandor and many others,’ she replied.  </p>
+<p> ‘As for instance, Rev Mr <span class="personal-name-4">Pritzia</span> and his wife, <span class="personal-name-26">Hon Coontarmas</span>, Mr Gandor and many others,’ she replied.  </p>
 
 <p>‘Allow me to know more about these gentlemen than yourself, my dear, but you do well to instance the few whom you consider to be the bright side of the picture; and now I will not go beyond our own family to bring out the dark side of your picture. What about your aunt and my daddy? Your aum Jemima and her husband; your uncle Quantamak and his wife; your uncle Mensah and —’  </p>
 
