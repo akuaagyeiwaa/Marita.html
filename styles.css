@@ -348,13 +348,13 @@ span.personal-name-30:hover {
     text-decoration: underline;
 }
 span.personal-name-31 {
-    color:  #aabfdd; /* Different color to distinguish */
+    color:  #c77396; /* Different color to distinguish */
     font-weight: bold;
     cursor: pointer;
 }
 
 span.personal-name-31:hover {
-    color:  #aabfdd; /* Different hover color */
+    color:  #c77396; /* Different hover color */
     text-decoration: underline;
 }
 /* Interactive styling for place names */
