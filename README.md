@@ -445,7 +445,7 @@
 
 <p>‘How provoking you are now <span class="personal-name">Quaibu</span>; you know very well that I am very anxious; what is the use of asking?’ </p> 
 
-<p>‘To come again to the point <span class="personal-name-2">Wissah</span>. He showed me a superb ring which was said was a present from Her Majesty the Queen to her beloved subject, <span class="personal-name-2">Wissah</span>, of whom she had heard a great deal, and the knighthood to her subject, even your beloved husband, on condition that we perform a certain meritorious deed which he the minister mentioned.’</p>  
+<p>‘To come again to the point <span class="personal-name-2">Wissah</span>. He showed me a superb ring which was said was a present from Her Majesty the Queen to her beloved subject, <span class="personal-name-2">Wissah</span>, of whom she had heard a great deal, and the <span class="personal-name-knight"><a href="https://en.wikipedia.org/wiki/Knight" target="_blank">Knight</a></span>hood to her subject, even your beloved husband, on condition that we perform a certain meritorious deed which he the minister mentioned.’</p>  
 
 <p>‘Although I find that you are joking with me, and that you would learn no lesson by what took place at our last interview, yet as I am really anxious to know what it was I will condescend to ask you what the conditions were by the performance of which I would be entitled to the ring, and you to the title of knighthood. ’ </p>
 
