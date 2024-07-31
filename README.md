@@ -89,7 +89,7 @@
 
 <h4><p>Western Echo, 24th February 1886 </p></h4>
 
-<p> ‘Where is <span class="personal-name-2">Wissah</span>?’ inquired <span class="personal-name-3">Bonsoe Penin</span></span> of his friend. I seldom see her lately; she used to call very often at my house to see her friends; but it seems to me that she avoids the place now. What can be the matter, <span class="personal-name">Quaibu</span>?’  </p>
+<p> ‘Where is <span class="personal-name-2">Wissah</span>?’ inquired <span class="personal-name-3">Bonsoe Penin</span> of his friend. I seldom see her lately; she used to call very often at my house to see her friends; but it seems to me that she avoids the place now. What can be the matter, <span class="personal-name">Quaibu</span>?’  </p>
 
 <p>‘I really do not know;’ replied <span class="personal-name">Quaibu</span>; ‘unless because she is now a class member, and the duty attached to her spiritual concerns gives hei no time to call. Mrs D your wife was here the day before yesterday, and remained several hours with her chatting together.’ </p> 
 
@@ -97,7 +97,7 @@
 
 <p>‘I mean not only to tell you that <span class="personal-name-2">Wissah</span> is a member,’ returned <span class="personal-name">Quaibu</span>, ‘but I also am a member on trial; and when you heard somebody’s banns being published yesterday in chapel it was mine. Now you see my dear <span class="personal-name-3">Bonsoe Penin</span></span> that I HAVE GONE AND DONE IT.’ </p>
 
- <p>This news, true as it was, did not a little startle Mr <span class="personal-name-3">Bonsoe Penin</span></span>. For some minutes he could not open his mouth, but sat down in the utmost astonishment, looking at his friend. At last ne said: </p> 
+ <p>This news, true as it was, did not a little startle Mr <span class="personal-name-3">Bonsoe Penin</span>. For some minutes he could not open his mouth, but sat down in the utmost astonishment, looking at his friend. At last ne said: </p> 
 
 <p>‘Words fail me to express my sentiments; allow me to congratulate you. I must candidly say, however, that I would never, under the penalty of decapitation, sacrifice my happiness; all the gold of Ophir [sic] 13 could not induce me to sell my liberty and happiness thus. What madness! what fetich could they have played on you so as to take such a step! Well, I am blessed, if I could make out the motives which could have prompted you to take a step of which I am sure, knowing what you are, you will soon repent. Chacun a son gout. I will promise you this much <span class="personal-name">Quaibu</span>; if you succeed in keeping your position as al class member, for three months, telling your real feelings to a frail man like yourself, and who is in no way better, I mean your class leader, 1 will also become a member. No, no, you can’t remain with them even a month I am sure. And this matrimonial project of yours, have you seriously thought over it? Have you thought of the consequences? Have you studied Miss <span class="personal-name-2">Wissah</span> so well . as she was, as she is; and as she will be in the state to which you are going to  raise her? Certain it is that she has been to you, what any good woman could A well be. chaste, prudent, loving, and obedient. But are you sure that Miss <span class="personal-name-2">Wissah</span>, as a country-married woman will be the same Miss <span class="personal-name-2">Wissah</span>. as a church married lady, both of you living in enchained wedlock? Have you taken into" </p>
 
