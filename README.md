@@ -93,7 +93,7 @@
 
 <p>‘I really do not know;’ replied <span class="personal-name">Quaibu</span>; ‘unless because she is now a class member, and the duty attached to her spiritual concerns gives hei no time to call. Mrs D your wife was here the day before yesterday, and remained several hours with her chatting together.’ </p> 
 
-<p>‘Do you really mean,’ asked <span class="personal-name-3">Bonsoe Penin</span></span> in astonishment, ‘that Miss <span class="personal-name-2">Wissah</span> is now a class member? and who is her leader?’</p> 
+<p>‘Do you really mean,’ asked <span class="personal-name-3">Bonsoe Penin</span> in astonishment, ‘that Miss <span class="personal-name-2">Wissah</span> is now a class member? and who is her leader?’</p> 
 
 <p>‘I mean not only to tell you that <span class="personal-name-2">Wissah</span> is a member,’ returned <span class="personal-name">Quaibu</span>, ‘but I also am a member on trial; and when you heard somebody’s banns being published yesterday in chapel it was mine. Now you see my dear <span class="personal-name-3">Bonsoe Penin</span></span> that I HAVE GONE AND DONE IT.’ </p>
 
