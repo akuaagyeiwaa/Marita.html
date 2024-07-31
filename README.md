@@ -1293,7 +1293,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘It is very strange,’ commenced he addressing <span class="personal-name">Quaibu</span>, ‘that you, a man of your social position, and of such religious principles, should so far forget your-self as to start a question of such difficult and dangerous tendency, and of such vast import. However since you have started it, it is your place to prove it. Upon what conceivable grounds do you base your arguments?’ </p>
 
-Gold Coast Echo, 16th-31st January 1888 (continued from the ‘Western Echo’) 
+<h4><p>Gold Coast Echo, 16th-31st January 1888 (continued from the ‘Western Echo’) </p></h4>
 
 <p>‘I see by the jowering looks of the skies,’ began <span class="personal-name">Quibu</span> somewhat diffidently, ‘that 1 have not an easy task to perform in order to bring my leaky vessel to the friendly haven.571 will try but if I don’t succeed, I shall have done my best, and it is all that human nature is required to do. ‘In stating this question for discussion, and taking the adverse side of it, let it not be thought that I wish to make a wilful attack upon an ancient and most revered law which has for several centuries received the cognizance of, and has so potently ruled, a nation the most civilized in the world. I do not know how I started this question and wherefore I took its conflicting or adverse side; but in for a penny in for a pound. </p>
 
