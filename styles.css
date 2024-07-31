@@ -198,13 +198,13 @@ span.personal-name-16:hover {
 }
 
 span.personal-name-17 {
-    color:  #233d59; /* Different color to distinguish */
+    color:  #5b81be; /* Different color to distinguish */
     font-weight: bold;
     cursor: pointer;
 }
 
 span.personal-name-17:hover {
-    color:  #233d59; /* Different hover color */
+    color:  #5b81be; /* Different hover color */
     text-decoration: underline;
 }
 
