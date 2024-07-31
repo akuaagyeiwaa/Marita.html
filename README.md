@@ -733,7 +733,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
  <p>‘Go on,’ curtly replied Mr <span class="personal-name-18">Langley</span>. </p> 
 
-<p>‘The <span Class-"place-name-2">Gangacre</span> members would not believe the scandal about Mr Yanson until the birth of a child proclaimed his wickedness; they would not credit that about the Rev Mr Puss.’ </p> 
+<p>‘The <span Class-"place-name-2">Gangacre</span> members would not believe the scandal about Mr Yanson until the birth of a child proclaimed his wickedness; they would not credit that about the Rev <span class="personal-name-36">Mr Puss</span>.’ </p> 
 
 <p>‘Stop! enough, interrupted his Reverence rather too vehemently, thus showing that the arrow of conviction had entered into his soul.  </p>
 
