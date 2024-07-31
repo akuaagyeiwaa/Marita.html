@@ -657,7 +657,7 @@
 
 <p>‘What can I say to satisfy you?’ cried she. ‘You cannot doubt my love for you. Hundred times would I prefer you to these people, taking them individually; but as a class member I find it hard to separate myself from their associations. I will try to avoid all gatherings, but class-meetings and chapel. I am sorry that you could suppose for a moment that I would prefer any one to yourself.’ </p> 
 
-<p>‘Nay <span class="personal-name-2">Wissah</span>, that is not my object,’ replied <span class="personal-name">Quaibu</span>. ‘You know that such respectable ladies as Mrs Saungers, Mrs <span class="personal-name-18">Langley</span>, Miss Andrews, and others of like position and respectability do not frequent the kind of gatherings we are talking about. It is with ladies of that kind that I wish you to associate, and " whose examples I wish you to go by. Is one of them not your own class- leader, and the other a relation? Enough for to night. You see, I have talked with you about your welfare, as I very seldom do; profit by it, and I am sure our lost happiness will be restored to its pristine state.’  </p>
+<p>‘Nay <span class="personal-name-2">Wissah</span>, that is not my object,’ replied <span class="personal-name">Quaibu</span>. ‘You know that such respectable ladies as Mrs Saungers, Mrs <span class="personal-name-18">Langley</span>, <span class="personal-name-32">Miss Andrews</span>, and others of like position and respectability do not frequent the kind of gatherings we are talking about. It is with ladies of that kind that I wish you to associate, and " whose examples I wish you to go by. Is one of them not your own class- leader, and the other a relation? Enough for to night. You see, I have talked with you about your welfare, as I very seldom do; profit by it, and I am sure our lost happiness will be restored to its pristine state.’  </p>
 
 <p>A marked change took place in Mrs <span class="personal-name">Quaibu</span> for some months after this conversation; they lived in peace and quietness until one day the evil spirit crossed their path. </p> 
 
@@ -693,7 +693,7 @@
 
 <p> ‘I have not given that kind of religious association sufficient thought, so cannot say whether or not I would allow my wife to be a member thereof,’ replied Mr <span class="personal-name-18">Langley</span> cautiously. </p>
 
-<p> ‘I can gather from your reply that Mrs <span class="personal-name-18">Langley</span> does not attend these meetings of a really questionable character,’ returned Mr <span class="personal-name">Quaibu</span>; ‘neither do Mrs Saunders, Miss Andrews and other respectable ladies in the Society.’ </p>
+<p> ‘I can gather from your reply that Mrs <span class="personal-name-18">Langley</span> does not attend these meetings of a really questionable character,’ returned Mr <span class="personal-name">Quaibu</span>; ‘neither do Mrs Saunders, <span class="personal-name-32">Miss Andrews</span> and other respectable ladies in the Society.’ </p>
 
 <p> ‘But what particular objection have you got against it <span class="personal-name">Quaibu</span>?’ asked Mr <span class="personal-name-18">Langley</span>. ‘Has not that association the object of reading passages in the Bible and explaining them in the vernacular to those who don’t understand them?’</p>  
 
