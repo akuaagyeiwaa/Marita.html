@@ -1089,7 +1089,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘May I ask you, Mrs <span class="personal-name">Quaibu</span>, to explain yourself?’ </p>
 
-<p>‘If I tell you that <span class="personal-name-5">Mr Elsmore</span>, Mr Abrands, and Mr Acquanus were here; and that a hot argument took place between the first gentleman and my husband; and that that gentleman went home perfectly ill; if not physically yet certainly mentally, for I never saw a man so unmercifully exposed as he was; you knowing my husband so well, will believe me if I say that I have had just cause to despise the Association.’ </p>
+<p>‘If I tell you that <span class="personal-name-5">Mr Elsmore</span>, <span class="personal-name-15">Mr Abrands</span>, and Mr Acquanus were here; and that a hot argument took place between the first gentleman and my husband; and that that gentleman went home perfectly ill; if not physically yet certainly mentally, for I never saw a man so unmercifully exposed as he was; you knowing my husband so well, will believe me if I say that I have had just cause to despise the Association.’ </p>
 
 <p>‘What is the nature of this Association you are talking about Mr Langley?’ inquired <span class="personal-name-11">Mr Cranbrook</span>. ‘I can so far see that it is connected with the Society, but what its nature is I do not know.' </p>
 
