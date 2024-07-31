@@ -729,7 +729,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Yes, who else, my dear fellow?’ replied the parson.	</p>  
 
-<p>‘Hah!’ exclaimed Mr <span class="personal-name">Quaibu</span>, somewhat amused. ‘The members of the Society did not believe the scandal about the Rev Mr	until his sins found him out, they would not believe those of Mrs <span class="personal-name-34">Dalzeil</span>, until hers found her out. The members of the Society would not believe <span class="personal-name-35">Mr Fleighe</span> crime until he was so wrought upon by a sense of guilt that he made a public confession, which reflected exceedingly well for him. Do you want any more instances?’ </p>
+<p>‘Hah!’ exclaimed Mr <span class="personal-name">Quaibu</span>, somewhat amused. ‘The members of the Society did not believe the scandal about the Rev Mr	until his sins found him out, they would not believe those of Mrs <span class="personal-name-34">Dalzeil</span>, until hers found her out. The members of the Society would not believe <span class="personal-name-35">Mr Fleighe</span>'s crime until he was so wrought upon by a sense of guilt that he made a public confession, which reflected exceedingly well for him. Do you want any more instances?’ </p>
 
  <p>‘Go on,’ curtly replied Mr <span class="personal-name-18">Langley</span>. </p> 
 
