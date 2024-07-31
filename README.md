@@ -155,7 +155,7 @@
 
 <h2><p>CHAPTER IV </p></h2> 
 
-<h3><p>THE <span class="personal-name-4">Pritzia</span>S - HUSBAND AND WIFE AND MISS <span class="personal-name-2">Wissah</span></p> </h3> 
+<h3><p>THE <span class="personal-name-4">PRITZIA'S</span> - HUSBAND AND WIFE AND MISS <span class="personal-name-2">Wissah</span></p> </h3> 
 
 <h4><p>Western Echo, 17th March 1886</p></h4> 
 
