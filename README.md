@@ -473,7 +473,7 @@
 
 <p> ‘As for instance, Rev Mr <span class="personal-name-4">Pritzia</span> and his wife, <span class="personal-name-26">Hon Coontarmas</span>, <span class="personal-name-27">Mr Gandor</span> and many others,’ she replied.  </p>
 
-<p>‘Allow me to know more about these gentlemen than yourself, my dear, but you do well to instance the few whom you consider to be the bright side of the picture; and now I will not go beyond our own family to bring out the dark side of your picture. What about your aunt and my daddy? Your aum Jemima and her husband; your uncle <span class="personal-name-28">Quantamak</span> and his wife; your uncle Mensah and —’  </p>
+<p>‘Allow me to know more about these gentlemen than yourself, my dear, but you do well to instance the few whom you consider to be the bright side of the picture; and now I will not go beyond our own family to bring out the dark side of your picture. What about your aunt and my daddy? Your aum Jemima and her husband; your uncle <span class="personal-name-28">Quantamak</span> and his wife; your uncle <span class="personal-name-29">Mensah</span> and —’  </p>
 
 <p>‘Enough!’ cried Miss <span class="personal-name-2">Wissah</span> suddenly, looking quite bewildered. ‘These are really sad instances you have named. To tell you the real truth you have thoroughly convinced me. But what am I to do? I have not only consented but 1iave also promised to use my influence, if I had any with you, to get you to join the class meetings, and the consummation of this second marriage.  </p>
 
