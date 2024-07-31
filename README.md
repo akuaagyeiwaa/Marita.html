@@ -1237,15 +1237,15 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘My candid opinion about English marriage is that it is not a divine but civil institution legalized by an Act of Parliament,’ replied Dr Dunhaussie. </p> 
 
-<p>‘I differ from you there,’ cried Mr Prembroke, a zealous Christian and a local preacher of high pretensions in the connection and of some influence in the country. ‘Christian marriages are of divine origin adopted by all Christian nations. If such be not so, why should it be solemnized in God’s house only; and there solemnly sworn to be the contracting parties?’ </p>
+<p>‘I differ from you there,’ cried <span class="personal-name-14">14.	Mr Prembroke</span>, a zealous Christian and a local preacher of high pretensions in the connection and of some influence in the country. ‘Christian marriages are of divine origin adopted by all Christian nations. If such be not so, why should it be solemnized in God’s house only; and there solemnly sworn to be the contracting parties?’ </p>
 
-<p>‘Can you prove its divine nature Mr Prembroke?’ asked Dr Dunhaussie. </p>
+<p>‘Can you prove its divine nature <span class="personal-name-14">14.	Mr Prembroke</span>?’ asked Dr Dunhaussie. </p>
 
 <p>I am not at present in a position to prove it by the Bible, but I have been taught so, and no argument could make me believe otherwise.’ </p>
 
 <p>‘You are a constant reader of the Bible, I suppose?’ asked <span class="personal-name">Quaibu</span>. </p>
 
-<p>Yes, I read my Bible every day,’ replied Mr Prembroke. </p>
+<p>Yes, I read my Bible every day,’ replied <span class="personal-name-14">14.	Mr Prembroke</span>. </p>
 
 <p>‘Did the great founder of the Christian religion institute the rites of marriage as performed in our English churches and chapels?’ </p>
 
@@ -1261,11 +1261,11 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Well!, if they did net recommend polygamy, did they monogamy?’ demand-ed <span class="personal-name">Quaibu</span>, in a peculiar way which excited roars of laughter. </p>
 
-<p>‘Yes, they did,’ he replied, showing a little displeasure. ‘It was made option-al for any man to marry or not as he chooses.’ ‘You say monogamy and not polygamy is expressly recommended in the Bible; but that the manner how it is to be performed in the church is not expressed therein. If such be the case, can you still call it a divine institution? For whatever is not in the Bible cannot be divine; and if it is not divine, it is human; and if it is human, what else can it be but a civil institution. You must acknowledge that the doctor is right, Mr Prembroke.’ </p>
+<p>‘Yes, they did,’ he replied, showing a little displeasure. ‘It was made option-al for any man to marry or not as he chooses.’ ‘You say monogamy and not polygamy is expressly recommended in the Bible; but that the manner how it is to be performed in the church is not expressed therein. If such be the case, can you still call it a divine institution? For whatever is not in the Bible cannot be divine; and if it is not divine, it is human; and if it is human, what else can it be but a civil institution. You must acknowledge that the doctor is right, <span class="personal-name-14">14.	Mr Prembroke</span>.’ </p>
 
 <p>‘I have never considered the matter in that light before,’ replied he, ‘and I must mildly confess that your arguments are convincing; and as far as I can see you are right.’ </p>
 
-<p>‘As you are a man of vast experience and knowledge, Mr Prembroke, besides being a man of the world, I would ask you: Is the swearing part of the ceremony right or wrong?’ asked Mr <span class="personal-name">Quaibu</span>. </p>
+<p>‘As you are a man of vast experience and knowledge, <span class="personal-name-14">14.	Mr Prembroke</span>, besides being a man of the world, I would ask you: Is the swearing part of the ceremony right or wrong?’ asked Mr <span class="personal-name">Quaibu</span>. </p>
 
 <p>‘You really must excuse my answering such a question,’ replied he. </p>
 
@@ -1273,7 +1273,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Certainly Mr <span class="personal-name">Quaibu</span>,’ replied he. ‘But there are some subjects that must not be touched with impunity; and this is one of them.’ </p>
 
-<p>‘How is that Mr Prembroke?’ demanded Mr <span class="personal-name">Quaibu</span>. ‘Is the ardent desire in a man to acquire knowledge proscribed?’</p> 
+<p>‘How is that <span class="personal-name-14">14.	Mr Prembroke</span>?’ demanded Mr <span class="personal-name">Quaibu</span>. ‘Is the ardent desire in a man to acquire knowledge proscribed?’</p> 
 
 <p>‘Certainly not,’ replied he; ‘but there are some weapons that the inexperienced must not handle.’ </p>
 
@@ -1281,15 +1281,15 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Oh, no,’ he replied; ‘yet it seems to me that it would be treading upon dangerous ground should we be drawn into discussion of this subject.’ </p>
 
-<p>‘Nothing venture, nothing win,’ chimed in Dadibah. ‘Mr Prembroke ought to answer Mr <span class="personal-name">Quaibu</span>’s question. Gentlemen, do you agree with me?’ </p>
+<p>‘Nothing venture, nothing win,’ chimed in Dadibah. ‘<span class="personal-name-14">14.	Mr Prembroke</span> ought to answer Mr <span class="personal-name">Quaibu</span>’s question. Gentlemen, do you agree with me?’ </p>
 
 <p>All but three of the gentlemen present agreed, consequently Prembroke was drawn into the discussion. Mr <span class="personal-name">Quaibu</span> was called upon to put the question again, which he did. </p>
 
-<p>‘It is decidedly right as far as I can see,’ replied Mr Prembroke, after due consideration; ‘to make it obligatory upon parties at the hymeneal altar to take the oath; without which it would be a farce. </p> 
+<p>‘It is decidedly right as far as I can see,’ replied <span class="personal-name-14">14.	Mr Prembroke</span>, after due consideration; ‘to make it obligatory upon parties at the hymeneal altar to take the oath; without which it would be a farce. </p> 
 
 <p>It is in that and that only that the difference between the two kinds of marriage - Christian and native in so far as monogamy is concerned - lies.’ </p>
 
-<p>‘I, on the other hand, consider it is highly wrong, and an extreme assumption of power, which God himself never assumed,’ replied <span class="personal-name">Quaibu</span>. Mr Prembroke and several others in the company looked aghast. Can a man be so madly presumptuous? Opinions were divided pretty nearly equal but more inclined in favour of Mr Prembroke. He saw by the looks of the gentlemen present that he had not a small matter to overcome. Mr <span class="personal-name">Quaibu</span> perceived at a glance that he was really spreading a silken carpet - <span Class-"place-name-3">England</span>’s ancient pet marriage laws - for muddy and filthy swine - ordinary men to play upon. Even some of those who were in his favour, were in his favour only to encourage him in order to go on with the discussion, but not that they thought that he or anybody else could revolutionize their own idea as to the most important part in Christian marriages. Prembroke cast his eyes round, and that was enough; he saw that the vantage ground was his. So emboldened he plunged into the controversy. </p>
+<p>‘I, on the other hand, consider it is highly wrong, and an extreme assumption of power, which God himself never assumed,’ replied <span class="personal-name">Quaibu</span>. <span class="personal-name-14">14.	Mr Prembroke</span> and several others in the company looked aghast. Can a man be so madly presumptuous? Opinions were divided pretty nearly equal but more inclined in favour of <span class="personal-name-14">14.	Mr Prembroke</span>. He saw by the looks of the gentlemen present that he had not a small matter to overcome. Mr <span class="personal-name">Quaibu</span> perceived at a glance that he was really spreading a silken carpet - <span Class-"place-name-3">England</span>’s ancient pet marriage laws - for muddy and filthy swine - ordinary men to play upon. Even some of those who were in his favour, were in his favour only to encourage him in order to go on with the discussion, but not that they thought that he or anybody else could revolutionize their own idea as to the most important part in Christian marriages. Prembroke cast his eyes round, and that was enough; he saw that the vantage ground was his. So emboldened he plunged into the controversy. </p>
 
 <p>‘It is very strange,’ commenced he addressing <span class="personal-name">Quaibu</span>, ‘that you, a man of your social position, and of such religious principles, should so far forget your-self as to start a question of such difficult and dangerous tendency, and of such vast import. However since you have started it, it is your place to prove it. Upon what conceivable grounds do you base your arguments?’ </p>
 
