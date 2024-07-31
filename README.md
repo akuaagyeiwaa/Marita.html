@@ -95,7 +95,7 @@
 
 <p>‘Do you really mean,’ asked <span class="personal-name-3">Bonsoe Penin</span> in astonishment, ‘that Miss <span class="personal-name-2">Wissah</span> is now a class member? and who is her leader?’</p> 
 
-<p>‘I mean not only to tell you that <span class="personal-name-2">Wissah</span> is a member,’ returned <span class="personal-name">Quaibu</span>, ‘but I also am a member on trial; and when you heard somebody’s banns being published yesterday in chapel it was mine. Now you see my dear <span class="personal-name-3">Bonsoe Penin</span></span> that I HAVE GONE AND DONE IT.’ </p>
+<p>‘I mean not only to tell you that <span class="personal-name-2">Wissah</span> is a member,’ returned <span class="personal-name">Quaibu</span>, ‘but I also am a member on trial; and when you heard somebody’s banns being published yesterday in chapel it was mine. Now you see my dear <span class="personal-name-3">Bonsoe Penin</span> that I HAVE GONE AND DONE IT.’ </p>
 
  <p>This news, true as it was, did not a little startle Mr <span class="personal-name-3">Bonsoe Penin</span>. For some minutes he could not open his mouth, but sat down in the utmost astonishment, looking at his friend. At last ne said: </p> 
 
