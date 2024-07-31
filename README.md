@@ -1047,7 +1047,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>’But I should like to know colours you have got, for you do not  show them,’ demanded Mrs <span class="personal-name">Quaibu</span>.</p> 
 
-<p>‘What real colours we have got you ask, Mrs Inquisitive?’ returned Mr <span class="personal-name-17">Brandeboult</span>. ‘Well, we two were born in wickedness and in sin did our mothers conceive us.51 Well, wickedness and sin being in us inherent we strive to do all the good we can without ostentation, as the Pharisees did of old, and you know they are the hypocrites of our days; if we fail we strive to mend our ways by asking the grace of God to enable us to do better.’ </p>
+<p>‘What real colours we have got you ask, Mrs Inquisitive?’ returned Mr <span class="personal-name-17">Brandeboult</span>. ‘Well, we two were born in wickedness and in sin did our mothers conceive us.51 Well, wickedness and sin being in us inherent we strive to do all the good we can without ostentation, as the <span class="personal-name-pharisees"><a href="https://en.wikipedia.org/wiki/Pharisees" target="_blank">Pharisees</a></span>did of old, and you know they are the hypocrites of our days; if we fail we strive to mend our ways by asking the grace of God to enable us to do better.’ </p>
 
 <p>‘It is certainly the best to allow one’s true colours or feathers,’ replied she.</p> 
 
