@@ -417,7 +417,7 @@
 
 <p>‘<span Class-"place-name-1">Dobblesie</span> is certainly a “dissipated” town, but it is quite a quiet place when compared to that town of yours. <span Class-"place-name-2">Gangacre</span> is notoriously known to be the jolliest town in our part of the coast; you must acknowledge that, <span class="personal-name-3">Bonsoe Penin</span>. </p>
 
- <p>‘There is a letter for you and another for my master Edward,’ interrupted Aghastone the head servant of Mr <span class="personal-name">Quaibu</span>, who handed the letters and with- drew. The very identical note of invitation from Cleighmore' exclaimed <span class="personal-name">Quaibu</span>; 'What a good job it is, it is for to-morrow. I have time to turn it over in my head whether I shall go or not.'</p> 
+ <p>‘There is a letter for you and another for my master Edward,’ interrupted <span class="personal-name-30">Aghastone</span> the head servant of Mr <span class="personal-name">Quaibu</span>, who handed the letters and with- drew. The very identical note of invitation from Cleighmore' exclaimed <span class="personal-name">Quaibu</span>; 'What a good job it is, it is for to-morrow. I have time to turn it over in my head whether I shall go or not.'</p> 
 
 <p>'But you must go <span class="personal-name">Quaibu</span>, or we will know the reason why' exclaimed <span class="personal-name-3">Bonsoe Penin</span>. 'We don't do things by halves here as you of <span Class-"place-name-1"><a href="https://en.wikipedia.org/wiki/Cape_Coast"</a>Dobblesie</span>. What a nuisance!' he exclaimed after glancing at his letter. 'I suppose I must go after all, and to the very place I was trying to avoid in this hot time. The judge wish- es to see me at once at his residence.' </p>
 
