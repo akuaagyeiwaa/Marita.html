@@ -117,7 +117,7 @@
 
 <p>‘There comes <span class="personal-name-2">Wissah</span>!’ exclaimed <span class="personal-name">Quaibu</span>; accompanied by Mrs <span class="personal-name-4">Pritzia</span> and escorted by the Reverend gentleman himself. Poor girl she does not know her position yet.’</p>
 
-<p>‘Which of the parsons?’ inquired Mr <span class="personal-name-3">Bonsoe Penin</span></span>.  </p>
+<p>‘Which of the parsons?’ inquired Mr <span class="personal-name-3">Bonsoe Penin</span>.  </p>
 
 <p>‘Mr <span class="personal-name-4">Pritzia</span>,’ replied <span class="personal-name">Quaibu</span>; then, continuing, he thus cautioned his friend. ‘Now old fellow, we must be careful what we say in the presence of this man. The subject which has been occupying our time is too serious, and at the same time delicate for us to resume it: so let us drop it, at all events for the present; for I know your temper and it will do no good but a great deal of harm to parties concerned.’ </p> 
 
