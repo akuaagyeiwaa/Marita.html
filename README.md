@@ -53,7 +53,7 @@
 
 <p>These two gentlemen were fast friends, so strong was their friendship that not a day passed but what you would see them together. No wonder therefore that Mr <span class="personal-name">Bonsoe Penin</span> used such familiar terms to his friend <span class="personal-name">Quaibu</span>.  </p>
 
-<p>‘Gently, <span class="personal-name-3">Bonsoe Penin</span>,’ replied <span class="personal-name">Quaibu</span>, ‘Not -so fast. Take a seat and cool yourself with a glass of Moselle and soda before you attempt to talk, as you are burning with heat. It is thus that I punish you for your hard words. After you have rested we will find time to talk about the matter and any amount of nonsense you like.’ </p>
+<p>‘Gently, <span class="personal-name">Bonsoe Penin</span>,’ replied <span class="personal-name">Quaibu</span>, ‘Not -so fast. Take a seat and cool yourself with a glass of Moselle and soda before you attempt to talk, as you are burning with heat. It is thus that I punish you for your hard words. After you have rested we will find time to talk about the matter and any amount of nonsense you like.’ </p>
 
 <p> ‘By — ! <span class="personal-name">Quaibu</span> you are really provoking! I swear that 1 will not sit down, nor allow myself to be insulted by your offer of drink until you have satisfied me. Was the banns published yours and Miss <span class="personal-name-2">Wissah</span>’s?’ replied <span class="personal-name-3"><span class="personal-name-3">Bonsoe Penin</span></span> persistently. </p>
 
