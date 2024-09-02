@@ -41,21 +41,7 @@
             color: white;
             margin-top: 20px;
         }
-    </style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-        }
-        h1 {
-            text-align: center;
-            
-        }
-        .metadata {
-            margin-bottom: 20px;
-        }
-        .metadata p {
-            margin: 5px 0;
-        }
+    
         
     </style>
 </head>
