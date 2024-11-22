@@ -66,7 +66,7 @@
 <picture>
   <source img="(min-width: 650px)" srcset="images/Sept 4_marita 1.jpg">
 </picture>
-<img src="images/my-image.jpg" alt="A description of the image">
+<img src="images/Sept 4_marita 1.jpg" alt="A description of the image">
 
 
 
