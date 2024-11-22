@@ -66,6 +66,8 @@
 <picture>
   <source img="(min-width: 650px)" srcset="images/Sept 4_marita 1.jpg">
 </picture>
+<img src="images/my-image.jpg" alt="A description of the image">
+
 
 
 <p>Mr <span class="personal-name">Quaibu</span>, the hero of this tale, was a man who had just entered his fortieth year short and slenderly built, healthy and strong. His features were not different from any of his countrymen’s - real type of a negro. He also had the advantage of English education, moved in the highest society, both European and native, and at the time that this tale was commenced he was filling a post -which was worth to him several hundred pounds sterling a year.</p>  
