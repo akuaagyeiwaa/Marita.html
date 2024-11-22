@@ -63,7 +63,7 @@
 <h4><p>Western Echo, 30tfi January 1886 </p></h4> 
 
 <p>‘So my dear friend, yon have gone and done it; I am surprised and astonished at you, I certainly gave you more credit for a good share of common sense, and sufficient knowledge of the world. Is it possible, and can it be true that it was yours the banns, that was published in the chapel yesterday?’ This was uttered by a man of about forty five years, strong but slenderly built, and of middle stature; complexion sallow red, his eyes were keen but yet seldom look you twice in the face, and his features regular. His manners were grave, but a more jovial and sincere friend never lived. In his youth he had the advantage of the best English education; besides being a good Latin, Greek and Hebrew scholar. <span class="personal-name">Bonsoe Penin</span>, the name of this gentleman, was not a bachelor, yet he was married, he had several wives; two he had living with him in his own house; the rest lived in their own houses, and it is strange to say that he lived happily with them all.</p> 
-<img src="images/Sept 4_marita 1.jpg" alt="A description of the image" width="50" height="50">
+<img src="images/Sept 4_marita 1.jpg" alt="A description of the image" width="100" height="80">
 
 
 
