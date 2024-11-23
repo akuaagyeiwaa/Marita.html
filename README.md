@@ -336,7 +336,7 @@
  <img src="images/may_8_1.jpg" alt="A description of the image" width="200" height="300">
  <img src="images/may_8_2.jpg" alt="A description of the image" width="200" height="300">
  <img src="images/may_8_3.jpg" alt="A description of the image" width="200" height="300">
- <img src="images/folklore_marita_april24_8.jpg" alt="A description of the image" width="200" height="300">
+ <img src="images/may8_4.jpg" alt="A description of the image" width="200" height="300">
 
  
 
