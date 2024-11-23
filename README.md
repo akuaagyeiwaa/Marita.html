@@ -124,6 +124,9 @@
 
 <p>‘Words fail me to express my sentiments; allow me to congratulate you. I must candidly say, however, that I would never, under the penalty of decapitation, sacrifice my happiness; all the gold of <span class="place-name-ophir"><a href="https://en.wikipedia.org/wiki/Ophir" target="_blank">Ophir</a></span> could not induce me to sell my liberty and happiness thus. What madness! what fetich could they have played on you so as to take such a step! Well, I am blessed, if I could make out the motives which could have prompted you to take a step of which I am sure, knowing what you are, you will soon repent. Chacun a son gout. I will promise you this much <span class="personal-name">Quaibu</span>; if you succeed in keeping your position as al class member, for three months, telling your real feelings to a frail man like yourself, and who is in no way better, I mean your class leader, 1 will also become a member. No, no, you can’t remain with them even a month I am sure. And this matrimonial project of yours, have you seriously thought over it? Have you thought of the consequences? Have you studied Miss <span class="personal-name-2">Wissah</span> so well . as she was, as she is; and as she will be in the state to which you are going to  raise her? Certain it is that she has been to you, what any good woman could A well be. chaste, prudent, loving, and obedient. But are you sure that Miss <span class="personal-name-2">Wissah</span>, as a country-married woman will be the same Miss <span class="personal-name-2">Wissah</span>. as a church married lady, both of you living in enchained wedlock? Have you taken into" </p>
 
+
+<img src="images/86 jan30_marita 2.jpg" alt="A description of the image" width="200" height="300">
+
  
 
 <h2><p>CHAPTER II (check) </p></h2>
