@@ -702,6 +702,10 @@
 
 <p>‘Mr Elmore’s,’ she replied. Subsequently she commenced to explain herself. I did not go there alone; there were four ladies and four gentlemen besides Mr Elmore in the company. The gentlemen read the bible explained it to us in the native language.’ </p>
 
+<img src="images/september 22_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/september 22_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/september 22_marita 3.jpg" alt="A description of the image" width="200" height="300">
+
  
 
 <h4><p>Western Echo, 23rd October 1886 </p> </h4>
