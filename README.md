@@ -704,7 +704,7 @@
 
 <img src="images/Oct9_marita1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/oct9_marita2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/september 22_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
 
  
 
