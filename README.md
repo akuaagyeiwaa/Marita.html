@@ -447,7 +447,7 @@
 <img src="images/may31_marita_folklore1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may 31_marita_2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may31_marita_3.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/may21_3_marita.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/may31_marita_4.jpg" alt="A description of the image" width="200" height="300">
 
   
 
