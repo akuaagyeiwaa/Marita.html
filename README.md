@@ -177,7 +177,7 @@
 
  <p>‘I really cannot say,’ the Revd gentleman replied. ‘But it looks to me and to all right minded men, that it is better and more respectable to have but one wife, married in the church. Is it not so mentioned in Holy Writ? Why is it only to-day that you talk about your wives? Have we ever found fault with either your- self or them to your knowledge?’ ‘You have certainly never found fault with me and with them, as you say, to my knowledge,’ replied <span class="personal-name-3">Bonsoe Penin</span> hotly; ‘and never will if I can help myself. But’, continued he rather complacently, ‘look at our mutual friend <span class="personal-name">Qauibu</span> and his amiable wife; is it because you find fault with them or that they have lived unhappily together, or that they were not looked upon by European gentlemen as well as native and even by men of “your cloth” as respectable in their native or country married state, that they are now made to exchange sub- stance - real happiness - for a shadow?’. </p>	
 
-<img src="images/maritafeb24_2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/march6_1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/maritafeb24_2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/maritafeb24_2.jpg" alt="A description of the image" width="200" height="300">
  
