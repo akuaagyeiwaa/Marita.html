@@ -388,7 +388,7 @@
 
 <img src="images/may 21_marita_folklore.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may21_2_marita_folklore.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/may8_4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/may21_3_marita.jpg" alt="A description of the image" width="200" height="300">
 
  
 
