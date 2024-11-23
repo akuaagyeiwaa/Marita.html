@@ -224,7 +224,7 @@
 
 <img src="images/march24_1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/march24_2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/maritafeb10_2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/march24_3.jpg" alt="A description of the image" width="200" height="300">
 
  
 
