@@ -444,7 +444,7 @@
 
 <p> Acknowledge this and as soon as our visitors are gone we will have a quiet  “confab” about it, and I will tell you also my views on the matter, which will place you in a position to judge.’ </p>
 
-<img src="images/may21_3_marita.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/may31_marita_folklore1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may21_3_marita.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may21_3_marita.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may21_3_marita.jpg" alt="A description of the image" width="200" height="300">
