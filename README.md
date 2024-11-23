@@ -668,7 +668,7 @@
 
 <img src="images/september22_folkore2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/september 22_marita1,2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/Sept 4_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/september 22_marita 3.jpg" alt="A description of the image" width="200" height="300">
 
 <h4><p>Western Echo, 9th October 1886 </p></h4> 
 
