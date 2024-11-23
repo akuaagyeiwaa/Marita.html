@@ -386,7 +386,7 @@
 
 <p>'And whether you really mean to go out, and to Mr <span class="personal-name-4">Pritzia</span>'s too, with the intention of — well you know what I mean,' continued the man in his anxiety to know her real feelings, and disregarding her demand for payment of the information.</p>	
 
-<img src="images/may8_4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/may 21_marita_folklore.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may8_4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may8_4.jpg" alt="A description of the image" width="200" height="300">
 
