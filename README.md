@@ -643,7 +643,7 @@
 
 <img src="images/August24_marita_folklore1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/August24_marita_2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/August7_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/August24_marita3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/August7_marita 3.jpg" alt="A description of the image" width="200" height="300">
 
 <h4><p>Western Echo, 11th September 1886 </p></h4>  
