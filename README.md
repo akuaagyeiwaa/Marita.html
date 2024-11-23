@@ -642,7 +642,7 @@
 <p>“My dearest friend, and benefactor,” rejoined I, cut to the very heart with grief and sorrow, “I would most willingly, if I could, share your grief with you, but that is impossible. If I could restore you the happiness which you have lost, by sacrificing all that I possess, I would most willingly throw it to the winds so that you might be what you were before, but it is utterly impossible as you lead me to understand. But you can learn to endure what you cannot help. In perplexity and distress both of mind and body, it is only the wise who. forbear and are patient, and in the very forbearance and patience that they exercise learn the way how to get out of the difficulty. Both of you I can see have not lost the love subsisting between you; in spite of her sour disposition and ill behaviour towards you, which is the offspring of the union of barbarous ideas with civilized notions; of imperfect knowledge of the new doctrines with the old customs. I can find that she loves you as ardently as ever she did before or else why should she wish to tie herself to you for life? It is in this very love that you can effect a reconciliation and bring her to the knowledge of her duty towards you.”</p> 
 
 <img src="images/August24_marita_folklore1.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/August7_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/August24_marita_2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/August7_marita 3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/August7_marita 3.jpg" alt="A description of the image" width="200" height="300">
 
