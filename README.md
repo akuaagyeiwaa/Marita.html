@@ -596,7 +596,7 @@
 
 <img src="images/Juyl 29_marita_folklore1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/July 29_marita_folklore2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/July 14_marita 4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/July 29_marita_folklore3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/July 14_marita 4.jpg" alt="A description of the image" width="200" height="300">
 
  
