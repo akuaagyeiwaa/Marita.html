@@ -495,7 +495,7 @@
 
 <img src="images/June16_marita_folklore_1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/June16_marita_2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/may31_marita_4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/June16_marita_3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/may31_marita_4.jpg" alt="A description of the image" width="200" height="300">
 
 <h4><p>Western Echo, 30th June 1886 </p></h4> 
