@@ -222,6 +222,10 @@
 
 <p>Mr <span class="personal-name-4">Pritzia</span> did not lose a word of what passed between the two ladies, and at this stage, he thought it was high time to join them. He accosted Miss <span class="personal-name-2">Wissah</span> in a most complacent manner; in which spirit she also returned the compliment. Mr <span class="personal-name-4">Pritzia</span> thought when he joined the ladies that there was no chance for him to succeed in his disinterested work of converting Miss <span class="personal-name-2">Wissah</span>, through whom he thought he could get at Mr <span class="personal-name">Quaibu </span> upon whose conversion he had principally set his heart.  </p>
 
+<img src="images/maritafeb10_2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/maritafeb10_2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/maritafeb10_2.jpg" alt="A description of the image" width="200" height="300">
+
  
 
 <h2><p>CHAPTER V  </p></h2>
