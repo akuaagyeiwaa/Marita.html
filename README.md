@@ -314,7 +314,7 @@
 <img src="images/april24_3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/marita_april24_4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/folklore_marita_april24_5.jpg" alt="A description of the image" width="200" height="300">
- <img src="images/marita_april24_4.jpg" alt="A description of the image" width="200" height="300">
+ <img src="images/folklore_marita_april24_5.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/marita_april24_4.jpg" alt="A description of the image" width="200" height="300">
  <img src="images/marita_april24_4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/marita_april24_4.jpg" alt="A description of the image" width="200" height="300">
