@@ -858,7 +858,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 <p>‘No thank you,1 replied Mr Ouaibu. laying emphasis or word yen. ‘She is my wife, and it is to me alone that she owes obedience. I will recognize no one between me and her. If she finds her fault, and promises not to do so again I will forgive her; if not, she leaves me, and there is an end of it. For what is life after all but a wink, a twinkle of the eye; and why should I spend it in misery simply because a woman would not allow me to enjoy it, by trampling upon myself respect, and peace of mind? a woman whom human institution only has attached to me indissolubly; but for which institution she would have been  alright! I can assure you, dear Mr <span class="personal-name-18">Langley</span>, if I had a hundred wives, and they M all treated me as this woman is treating me, they would all go in spite of the I oath I have taken, I would stand my chance of going to heaven.' </p><img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
 
 
-<img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/Dec7_folklore_marita1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
