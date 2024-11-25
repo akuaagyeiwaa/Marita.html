@@ -808,7 +808,7 @@
 
 <img src="images/nov 20_folklore_marita 1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov 20_marita3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
 
