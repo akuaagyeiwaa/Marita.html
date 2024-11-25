@@ -1025,7 +1025,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <img src="images/87 april 14_marita2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 april 14_marita 3.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 april 14_marita 4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
 
 <h4><p>Western Echo, 16th-31st May 1887 </p></h4>
