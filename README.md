@@ -859,7 +859,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 
 <img src="images/Dec7_folklore_marita1.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/Dec7_folklore_marita2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
