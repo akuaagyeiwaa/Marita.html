@@ -771,7 +771,9 @@
 
 <p>‘A worthy pupil of a consummate master in fictitious religion.’ cried Mr <span class="personal-name">Quaibu</span> most bitterly. ‘A few months ago you decided in my favour; but now I perceive you declare for <span class="personal-name-5">Mr Elsmore</span> and his clique; be it so. Henceforth, have your own way, and I will have mine’ concluded the unhappy man getting up to go to bed.  </p>
 
-<p>‘Yes I will have my own way, and mean to have it too, so far as religion is concerned. I will have nobody, not even you, to stand between me and my God. So saying, Mrs <span class="personal-name">Quaibu</span> went to her room, banging the door violently after her.</p>  
+<p>‘Yes I will have my own way, and mean to have it too, so far as religion is concerned. I will have nobody, not even you, to stand between me and my God. So saying, Mrs <span class="personal-name">Quaibu</span> went to her room, banging the door violently after her.</p> 
+
+<img src="images/oct23_marita 4.jpg" alt="A description of the image" width="200" height="300">
 
  
 
