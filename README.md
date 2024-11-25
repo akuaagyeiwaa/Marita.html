@@ -980,7 +980,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 <p>Be happy <span class="personal-name-9">Mr Littlemonie</span> in the new companion thou hast found, and may that union be a blissful one to the end of thy days! But thou <span class="personal-name-8">Mrs <span class="personal-name-9">Mr Littlemonie</span></span> or rather Miss Beck doe; wouldst thou not see the wickedness of thy ways and return to a Saviour who sacrificed his previous life to save thee from eternal perdition? The hearts of those who knew thee when thou wert young bleed for thee, and nothing less than thy reclamation can heal their bleeding hearts. </p>
 
 <img src="images/87 march16_folklore_marita 1.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/87 Jan10_marita3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 Jan10_marita3.jpg" alt="A description of the image" width="200" height="300">
 
  
