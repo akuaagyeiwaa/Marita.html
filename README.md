@@ -810,7 +810,7 @@
 <img src="images/nov20_marita2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov 20_marita3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov20_marita 3.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov20_marita4.jpg" alt="A description of the image" width="200" height="300">
 
 
 <h4><p>Western Echo, 7th-13th December 1886</p></h4> 
