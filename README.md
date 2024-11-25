@@ -806,7 +806,7 @@
 
 <p>‘But why such great objection against the place?’ demanded Mr <span class="personal-name-18">Langley</span>. ‘Is the man not a class leader and a local preacher too? One who is trusted by all of us?’  </p>
 
-<img src="images/nov9_marita1.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov 20_folklore_marita 1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
