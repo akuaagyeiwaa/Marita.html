@@ -740,6 +740,12 @@
 
 <p>‘Now <span class="personal-name-2">Wissah</span>, this is really too bad! How often have I taken up the Bible in order to read and explain it to you and how often have you not left me in the middle of my explanations in order to go about your business? Is it because you can explain it better than myself? No; but it is because you consider that my hands are dirty and therefore must not handle year valuable jewels, that I being ungodly, you lose the pleasure when I explain the secret to you.’ </p>
 
+<img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
+
+
 <h4><p>Western Echo, 9th November 1886 </p></h4> 
 
 <p>‘No, no, it is not that’ answered Mrs <span class="personal-name">Quaibu</span> hurriedly. I do not know how it is, but I feel more pleasure when there are many of us; when each one strives to beat the other.’  </p>
