@@ -806,6 +806,13 @@
 
 <p>‘But why such great objection against the place?’ demanded Mr <span class="personal-name-18">Langley</span>. ‘Is the man not a class leader and a local preacher too? One who is trusted by all of us?’  </p>
 
+<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov9_marita 2.jpg" alt="A description of the image" width="200" height="300">
+
+
 <h4><p>Western Echo, 7th-13th December 1886</p></h4> 
 
 <p>‘There lies the contest Mr <span class="personal-name-18">Langley</span>. It is there that we are at issue. I resolutely object to the place for several reasons, but principally, the exclusion of the lady of the house from these pious gatherings. <span class="personal-name-6">Mrs Elsmore</span> was a heathen but a few years ago, so were these ladies we are talking about; she is imperfect, in fact, a novice in religious precepts, so are they; she is a class member and regularly frequents places of worship, so are these other ladies, and they also are as regular in their attendance; class meetings and such resorts are not sufficiently powerful to take the other ladies to their God; therefore it is that they require further religious instruction; but <span class="personal-name-6">Mrs Elsmore</span> being perfect does not of course need them. Answer Mr <span class="personal-name-18">Langley</span>! is there any man perfect in this world? Is <span class="personal-name-6">Mrs Elsmore</span>?’</p>  
