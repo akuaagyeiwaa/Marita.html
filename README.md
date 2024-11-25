@@ -773,7 +773,8 @@
 
 <p>‘Yes I will have my own way, and mean to have it too, so far as religion is concerned. I will have nobody, not even you, to stand between me and my God. So saying, Mrs <span class="personal-name">Quaibu</span> went to her room, banging the door violently after her.</p> 
 
-<img src="images/oct23_marita 4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov9_marita1.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/nov9_marita1.jpg" alt="A description of the image" width="200" height="300">
 
  
 
