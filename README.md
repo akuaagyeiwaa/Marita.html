@@ -742,7 +742,7 @@
 
 <img src="images/oct23_marita 3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/oct 23_folklore_marita2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/oct23_marita 3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/oct9_marita3.jpg" alt="A description of the image" width="200" height="300">
 
 
