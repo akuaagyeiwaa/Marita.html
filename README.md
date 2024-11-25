@@ -1023,6 +1023,11 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Oh, no; it certainly is incomprehensible,’ replied she. ‘But I must consider the fault to be more on the side of the woman than on the side of the man.’</p> 
 
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+
 <h4><p>Western Echo, 16th-31st May 1887 </p></h4>
 
 <p>‘Nay,’ replied <span class="personal-name-6">Mrs Elsmore</span>: ‘if <span class="personal-name-13">Mr Drumlett</span>, in the instance of Miss Ekbinna’s visit had shown the respect due to his own wife, don’t you think that the rest would equally respect her? I do not uphold the conduct of the women, but the men are more to be blamed.'</p> 
