@@ -1336,7 +1336,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 <p>'I have nothing whatever to say against the society, or against the leaders generally,’ replied <span class="personal-name">Quaibu</span>. ‘If I know any thing to the detriment of a few of them - and you Mr <span class="personal-name-18">Langley</span> know whom I mean - as concerns their sacred character, it is not my wish to talk about it, specially when the parties them-selves are not here. Three of them were here today, and they went away fully convinced that the public know more of them than they supposed. Mr <span class="personal-name-18">Langley</span> would do well to let allayed dust rest; if he would disturb it nothing good will come of it. I hope you will like the place <span class="personal-name-11">Mr Cranbrook</span> and that you will keep you health as to remain long with us.’ </p><img src="images/87 sept 16_folklore_marita4.jpg" alt="A description of the image" width="200" height="300">
 
 <img src="images/87 Oct 17_folkore_marita 1.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/87 sept 16_folklore_marita4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 oct 17_folklore_marita 2.pdf" alt="A description of the image" width="200" height="300">
 <img src="images/87 sept 16_folklore_marita4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 sept 16_folklore_marita4.jpg" alt="A description of the image" width="200" height="300">
 
