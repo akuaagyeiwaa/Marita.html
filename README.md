@@ -1064,6 +1064,11 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Sad indeed is the condition of a church in whose members she deplores many hypocrites, backsliders and pretenders;’ soliloquized Mrs Ironside; ‘but sadder still is the condition of that one which finds amongst her very ministers delinquents of no less magnitude! </p>
 
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 march 16_marita 3.jpg" alt="A description of the image" width="200" height="300">
+
  
 
  
