@@ -1411,7 +1411,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>The friends sat for some time talking about different subjects over their wine and afterwards Mr <span class="personal-name-17">Brandeboult</span> left, leaving <span class="personal-name">Quaibu</span> to brood over things in general, and over his encounters during the day in particular. We will leave him thus engaged for the present. </p>
 
-<img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 November 15_folklore_marita 1.pdf" alt="A description of the image" width="200" height="300">
 <img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
