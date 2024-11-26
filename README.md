@@ -1483,7 +1483,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘It is very strange,’ commenced he addressing <span class="personal-name">Quaibu</span>, ‘that you, a man of your social position, and of such religious principles, should so far forget your-self as to start a question of such difficult and dangerous tendency, and of such vast import. However since you have started it, it is your place to prove it. Upon what conceivable grounds do you base your arguments?’ </p>
 
-<img src="images/87 November 15_marita_4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 Dec16_folkore_marita 1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 November 15_marita_4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 November 15_marita_4.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 November 15_marita_4.jpg" alt="A description of the image" width="200" height="300">
