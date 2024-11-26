@@ -1170,7 +1170,13 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Stop!’ cried <span class="personal-name">Quaibu</span> entirely out of temper. ‘Would you roughly handle the sharp knife by the blade, or rouse the lion when he is quiet in his lair! Hear then and judge. </p>
 
-<p>‘A certain man, in this very town, was excessively zealous in the work of God. Paul-like he would go out of his way to convert the Gentiles - the unbelievers, and such praiseworthy conduct made him eminently prominent in the society. When the society was visited by one of those extraordinary events — a revival — it was this excellent man’s habit to invite younger women to his house to pray with them early in the mornings and late in the evenings. In this house there were young men who were living with him who emulated him in all his ways. Conduct like this could not but excite admiration and praise in the society. Has he not sent, by his assiduity and pious exertions, many souls convert-ed to join the holy body? You know, <span class="personal-name-5">Mr Elsmore</span>, what this good man and his followers did with those girls after prayers, for you cannot help knowing the circumstances of the case. </p> 
+<p>‘A certain man, in this very town, was excessively zealous in the work of God. Paul-like he would go out of his way to convert the Gentiles - the unbelievers, and such praiseworthy conduct made him eminently prominent in the society. When the society was visited by one of those extraordinary events — a revival — it was this excellent man’s habit to invite younger women to his house to pray with them early in the mornings and late in the evenings. In this house there were young men who were living with him who emulated him in all his ways. Conduct like this could not but excite admiration and praise in the society. Has he not sent, by his assiduity and pious exertions, many souls convert-ed to join the holy body? You know, <span class="personal-name-5">Mr Elsmore</span>, what this good man and his followers did with those girls after prayers, for you cannot help knowing the circumstances of the case. </p>
+
+<img src="images/87 June 16_marita 4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 June 16_marita 4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 June 16_marita 4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 June 16_marita 4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 June 16_marita 4.jpg" alt="A description of the image" width="200" height="300">
 
  
 
