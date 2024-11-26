@@ -1342,6 +1342,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 <img src="images/87 Oct 17_marita _folklore4.jpg" alt="A description of the image" width="200" height="300">
 
 
+
 <h4><p>Western Echo, 15th-30th November 1887 </p></h4>
 
 <p>Thank you Mr <span class="personal-name">Quaibu</span>. I think my health will keep well, as I have been to many of the West India Islands and stayed some years. You know the climate there is not very different from this.’ </p>
