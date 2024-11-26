@@ -1487,6 +1487,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 <img src="images/87 Dec16_marita_folklore_2.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 Dec 16_marita_folklore3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 Dec16.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 Dec16.jpg" alt="A description of the image" width="200" height="300">
 
 
 <h4><p>Gold Coast Echo, 16th-31st January 1888 (continued from the ‘Western Echo’) </p></h4>
