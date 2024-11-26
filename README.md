@@ -1411,6 +1411,12 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>The friends sat for some time talking about different subjects over their wine and afterwards Mr <span class="personal-name-17">Brandeboult</span> left, leaving <span class="personal-name">Quaibu</span> to brood over things in general, and over his encounters during the day in particular. We will leave him thus engaged for the present. </p>
 
+<img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 Oct_17_marita 5.jpg" alt="A description of the image" width="200" height="300">
+
+
 <h4><p>Western Echo, 16th-31st December 1887 </p></h4>
 
 <p>The town of <span Class-"place-name-1">Dobblesie</span> like any other primitive places of similar condition can neither be called civilized, nor can it be called barbarous. It can not be called civilized because the mass or at least the greater number of the people or inhabitants are barbarous; neither can it be called barbarous because there are some, although few, educated and Christian people amongst them who are civilized. Being thus situated it is impossible to call its society a select one. Excepting the European portion of the community, the society is promiscuous in the extreme; the reason being the close relationship existing between the literate and the illiterate, the Christian and the heathen. It is no matter of wonder therefore to find people of all classes and conditions meeting at a respectable native gentleman’s house now and then to talk about the news of the day, and to converse about other subjects. It is one of these kind of sudden social gatherings, and the principal subject of conversation that took place that we are about-writing. </p>
