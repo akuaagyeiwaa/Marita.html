@@ -1135,6 +1135,13 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘Which means, Mr Saint,’ returned <span class="personal-name">Quaibu</span> getting really hot, ‘that as you are a member of the society, and therefore infallible, you could associate with other people’s wives without being tempted to fall foul of them, but that I being a nun-class member, consequently wicked, you would not allow me to visit your wife, because, forsooth, a crime would, nay, must happen between us. Your proof against temptation therefore is in your being a member of the society, and my weakness in being a non-member?’</p> 
 
+<img src="images/87 may 16_folkore marita4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 may 16_folkore marita4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 may 16_folkore marita4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 may 16_folkore marita4.jpg" alt="A description of the image" width="200" height="300">
+
+
+
 <h4><p>Western Echo, 16th-30th July 1887 </p></h4>
 
 <p>I really did not mean to insinuate that —’ </p>
