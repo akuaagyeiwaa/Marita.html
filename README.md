@@ -1485,7 +1485,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <img src="images/87 Dec16_folkore_marita 1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 Dec16_marita_folklore_2.jpg" alt="A description of the image" width="200" height="300">
-<img src="images/87 November 15_marita_4.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87 Dec 16_marita_folklore3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 November 15_marita_4.jpg" alt="A description of the image" width="200" height="300">
 
 
