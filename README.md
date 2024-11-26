@@ -1232,7 +1232,7 @@ if <span class="personal-name-6">Mrs Elsmore</span> is not perfect as you rightl
 
 <p>‘How can I disobey you, dear Mrs <span class="personal-name">Quaibu</span>,’ replied he. ‘Besides we two are inseparable; if you lead one the other follows. What a stir we will create at our first entrance in chapel. By the <span class="personal-name-19">Powers</span>! I am sure two devils entering any sacred place would not excite greater wonder. Do you think they will be  delighted to have two great sinners like us to pollute their sanctuary by swelling their number? ’‘They will only be too glad to receive you I am sure. Do —,’ here Mrs <span class="personal-name">Quaibu</span> was interrupted by a servant who announced to his master that the Rev Mr <span class="personal-name-18">Langley</span> and a European gentleman were on their way to the house.</p> 
 
-<img src="images/87 july 16_folkore_marita 3.jpg" alt="A description of the image" width="200" height="300">
+<img src="images/87august 16_folklore_marita1.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 july 16_folkore_marita 3.jpg" alt="A description of the image" width="200" height="300">
 <img src="images/87 july 16_folkore_marita 3.jpg" alt="A description of the image" width="200" height="300">
 
